@@ -1,0 +1,6002 @@
+{
+  "1": {
+    "Director": "John Lasseter",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 401157969,
+    "Runtime": 81
+  },
+  "2": {
+    "Director": "Joe Johnston",
+    "Budget": 65000000,
+    "Cumulative Worldwide Gross": 262821940,
+    "Runtime": 104
+  },
+  "3": {
+    "Director": "Howard Deutch",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 71518503,
+    "Runtime": 101
+  },
+  "4": {
+    "Director": "Forest Whitaker",
+    "Budget": 16000000,
+    "Cumulative Worldwide Gross": 81452156,
+    "Runtime": 127
+  },
+  "5": {
+    "Director": "Charles Shyer",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 76594107,
+    "Runtime": 106
+  },
+  "6": {
+    "Director": "Michael Mann",
+    "Budget": 60000000,
+    "Cumulative Worldwide Gross": 187400000,
+    "Runtime": 170
+  },
+  "7": {
+    "Director": "Sydney Pollack",
+    "Budget": 58000000,
+    "Cumulative Worldwide Gross": 53672080,
+    "Runtime": 127
+  },
+  "8": {
+    "Director": "Peter Hewitt",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 23920048,
+    "Runtime": 97
+  },
+  "9": {
+    "Director": "Peter Hyams",
+    "Budget": 35000000,
+    "Cumulative Worldwide Gross": 64350171,
+    "Runtime": 111
+  },
+  "10": {
+    "Director": "Martin Campbell",
+    "Budget": 60000000,
+    "Cumulative Worldwide Gross": 352194034,
+    "Runtime": 130
+  },
+  "11": {
+    "Director": "Rob Reiner",
+    "Budget": 62000000,
+    "Cumulative Worldwide Gross": 107879496,
+    "Runtime": 113
+  },
+  "12": {
+    "Director": "Mel Brooks",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 10772144,
+    "Runtime": 88
+  },
+  "13": {
+    "Director": "Simon Wells",
+    "Budget": 31000000,
+    "Cumulative Worldwide Gross": 11348324,
+    "Runtime": 78
+  },
+  "14": {
+    "Director": "Oliver Stone",
+    "Budget": 44000000,
+    "Cumulative Worldwide Gross": 13681765,
+    "Runtime": 192
+  },
+  "15": {
+    "Director": "Renny Harlin",
+    "Budget": 102000000,
+    "Cumulative Worldwide Gross": 16000000,
+    "Runtime": 124
+  },
+  "16": {
+    "Director": "Martin Scorsese",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 116112375,
+    "Runtime": 179
+  },
+  "17": {
+    "Director": "Ang Lee",
+    "Budget": 16000000,
+    "Cumulative Worldwide Gross": 134582776,
+    "Runtime": 136
+  },
+  "18": {
+    "Director": "Robert Rodriguez, Alexandre Rockwell, Allison Anders, Quentin Tarantino",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 4257354,
+    "Runtime": 98
+  },
+  "19": {
+    "Director": "Steve Oedekerk",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 212385533,
+    "Runtime": 90
+  },
+  "20": {
+    "Director": "Joseph Ruben",
+    "Budget": 68000000,
+    "Cumulative Worldwide Gross": 77224232,
+    "Runtime": 110
+  },
+  "21": {
+    "Director": "Barry Sonnenfeld",
+    "Budget": 30250000,
+    "Cumulative Worldwide Gross": 115101622,
+    "Runtime": 105
+  },
+  "22": {
+    "Director": "Jon Amiel",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 32000000,
+    "Runtime": 124
+  },
+  "23": {
+    "Director": "Richard Donner",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 30303072,
+    "Runtime": 132
+  },
+  "24": {
+    "Director": "Victor Salva",
+    "Budget": 9500000,
+    "Cumulative Worldwide Gross": 30900000,
+    "Runtime": 112
+  },
+  "25": {
+    "Director": "Mike Figgis",
+    "Budget": 3600000,
+    "Cumulative Worldwide Gross": 49800000,
+    "Runtime": 111
+  },
+  "26": {
+    "Director": "Oliver Parker",
+    "Budget": 11000000,
+    "Cumulative Worldwide Gross": 2800000,
+    "Runtime": 123
+  },
+  "27": {
+    "Director": "Lesli Linka Glatter",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 27400000,
+    "Runtime": 102
+  },
+  "28": {
+    "Director": "Roger Michell",
+    "Budget": 1500000,
+    "Cumulative Worldwide Gross": 5269757,
+    "Runtime": 104
+  },
+  "29": {
+    "Director": "Marc Caro, Jean-Pierre Jeunet",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 1738611,
+    "Runtime": 112
+  },
+  "30": {
+    "Director": "Zhang Yimou",
+    "Budget": 2300000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 108
+  },
+  "31": {
+    "Director": "John N. Smith",
+    "Budget": 23000000,
+    "Cumulative Worldwide Gross": 179519401,
+    "Runtime": 99
+  },
+  "32": {
+    "Director": "Terry Gilliam",
+    "Budget": 29000000,
+    "Cumulative Worldwide Gross": 168841459,
+    "Runtime": 129
+  },
+  "34": {
+    "Director": "Chris Noonan",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 254100000,
+    "Runtime": 92
+  },
+  "36": {
+    "Director": "Tim Robbins",
+    "Budget": 11000000,
+    "Cumulative Worldwide Gross": 39363635,
+    "Runtime": 122
+  },
+  "38": {
+    "Director": "Andy Tennant",
+    "Budget": 14500000,
+    "Cumulative Worldwide Gross": 19474589,
+    "Runtime": 101
+  },
+  "39": {
+    "Director": "Amy Heckerling",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 56631572,
+    "Runtime": 97
+  },
+  "40": {
+    "Director": "Darrell James Roodt",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 676525,
+    "Runtime": 106
+  },
+  "41": {
+    "Director": "Richard Loncraine",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 2748518,
+    "Runtime": 104
+  },
+  "42": {
+    "Director": "Albert Hughes, Allen Hughes",
+    "Budget": 10000000,
+    "Cumulative Worldwide Gross": 24100000,
+    "Runtime": 119
+  },
+  "43": {
+    "Director": "Michael Hoffman",
+    "Budget": 19000000,
+    "Cumulative Worldwide Gross": 4005941,
+    "Runtime": 117
+  },
+  "44": {
+    "Director": "Paul W. S. Anderson",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 122195920,
+    "Runtime": 101
+  },
+  "45": {
+    "Director": "Gus Van Sant",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 21300000,
+    "Runtime": 106
+  },
+  "46": {
+    "Director": "Jocelyn Moorhouse",
+    "Budget": 10000000,
+    "Cumulative Worldwide Gross": 41200020,
+    "Runtime": 116
+  },
+  "47": {
+    "Director": "David Fincher",
+    "Budget": 33000000,
+    "Cumulative Worldwide Gross": 327311859,
+    "Runtime": 127
+  },
+  "48": {
+    "Director": "Mike Gabriel, Eric Goldberg",
+    "Budget": 55000000,
+    "Cumulative Worldwide Gross": 346079773,
+    "Runtime": 81
+  },
+  "49": {
+    "Director": "Patricia Rozema",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 96
+  },
+  "50": {
+    "Director": "Bryan Singer",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 23300000,
+    "Runtime": 106
+  },
+  "52": {
+    "Director": "Woody Allen",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 26000000,
+    "Runtime": 95
+  },
+  "53": {
+    "Director": "Gianni Amelio",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 112
+  },
+  "54": {
+    "Director": "Holly Goldberg Sloan",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 100
+  },
+  "55": {
+    "Director": "Ulu Grosbard",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1110974,
+    "Runtime": 115
+  },
+  "57": {
+    "Director": "Jodie Foster",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 22119269,
+    "Runtime": 103
+  },
+  "58": {
+    "Director": "Michael Radford",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 33000000,
+    "Runtime": 114
+  },
+  "60": {
+    "Director": "Frank Oz",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 35700000,
+    "Runtime": 96
+  },
+  "61": {
+    "Director": "John Schlesinger",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 26877589,
+    "Runtime": 101
+  },
+  "62": {
+    "Director": "Stephen Herek",
+    "Budget": 31000000,
+    "Cumulative Worldwide Gross": 106300000,
+    "Runtime": 143
+  },
+  "63": {
+    "Director": "Paris Barclay",
+    "Budget": 3800000,
+    "Cumulative Worldwide Gross": 20949601,
+    "Runtime": 89
+  },
+  "64": {
+    "Director": "Bill Bennett",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 10658278,
+    "Runtime": 96
+  },
+  "65": {
+    "Director": "Jason Bloom",
+    "Budget": 8500000,
+    "Cumulative Worldwide Gross": 13400000,
+    "Runtime": 95
+  },
+  "66": {
+    "Director": "Farhad Mann",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 2409225,
+    "Runtime": 92
+  },
+  "68": {
+    "Director": "Josiane Balasko",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 95
+  },
+  "69": {
+    "Director": "F. Gary Gray",
+    "Budget": 3500000,
+    "Cumulative Worldwide Gross": 28215918,
+    "Runtime": 91
+  },
+  "70": {
+    "Director": "Robert Rodriguez",
+    "Budget": 19000000,
+    "Cumulative Worldwide Gross": 25800000,
+    "Runtime": 108
+  },
+  "71": {
+    "Director": "Andrew Sipes",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 11500000,
+    "Runtime": 91
+  },
+  "72": {
+    "Director": "Noah Baumbach",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 718490,
+    "Runtime": 96
+  },
+  "73": {
+    "Director": "Claude Lelouch",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 175
+  },
+  "74": {
+    "Director": "Michael Goldenberg",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 19030691,
+    "Runtime": 87
+  },
+  "75": {
+    "Director": "Steve Miner",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 2042530,
+    "Runtime": 90
+  },
+  "76": {
+    "Director": "Christian Duguay",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 5781885,
+    "Runtime": 108
+  },
+  "77": {
+    "Director": "Susanne Ofteringer",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 70
+  },
+  "78": {
+    "Director": "Sean Penn",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 111
+  },
+  "79": {
+    "Director": "Brian Gibson",
+    "Budget": 44000000,
+    "Cumulative Worldwide Gross": 22754725,
+    "Runtime": 118
+  },
+  "80": {
+    "Director": "Jafar Panahi",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 85
+  },
+  "81": {
+    "Director": "Gary Fleder",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": 529766,
+    "Runtime": 116
+  },
+  "82": {
+    "Director": "Marleen Gorris",
+    "Budget": 900000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 102
+  },
+  "83": {
+    "Director": "Tim Reid",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 115
+  },
+  "85": {
+    "Director": "Philip Haas",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 118
+  },
+  "86": {
+    "Director": "Ridley Scott",
+    "Budget": 38000000,
+    "Cumulative Worldwide Gross": 10300000,
+    "Runtime": 129
+  },
+  "87": {
+    "Director": "Ken Kwapis",
+    "Budget": 16000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 88
+  },
+  "88": {
+    "Director": "Penelope Spheeris",
+    "Budget": 32400000,
+    "Cumulative Worldwide Gross": 32000000,
+    "Runtime": 86
+  },
+  "89": {
+    "Director": "John Badham",
+    "Budget": 33000000,
+    "Cumulative Worldwide Gross": 8175346,
+    "Runtime": 89
+  },
+  "92": {
+    "Director": "Stephen Frears",
+    "Budget": 47000000,
+    "Cumulative Worldwide Gross": 12379402,
+    "Runtime": 108
+  },
+  "93": {
+    "Director": "Wes Craven",
+    "Budget": 14000000,
+    "Cumulative Worldwide Gross": 19800000,
+    "Runtime": 102
+  },
+  "94": {
+    "Director": "Ted Demme",
+    "Budget": 16000000,
+    "Cumulative Worldwide Gross": 27000000,
+    "Runtime": 112
+  },
+  "95": {
+    "Director": "John Woo",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 150300000,
+    "Runtime": 108
+  },
+  "96": {
+    "Director": "Kenneth Branagh",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 99
+  },
+  "97": {
+    "Director": "Mathieu Kassovitz",
+    "Budget": 2600000,
+    "Cumulative Worldwide Gross": 15300000,
+    "Runtime": 98
+  },
+  "99": {
+    "Director": "Nick Broomfield",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 106
+  },
+  "100": {
+    "Director": "Harold Becker",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 33440204,
+    "Runtime": 111
+  },
+  "101": {
+    "Director": "Wes Anderson",
+    "Budget": 7000000,
+    "Cumulative Worldwide Gross": 1040879,
+    "Runtime": 91
+  },
+  "102": {
+    "Director": "Nick Castle",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 96
+  },
+  "103": {
+    "Director": "John Dahl",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 116
+  },
+  "104": {
+    "Director": "Dennis Dugan",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 41422354,
+    "Runtime": 92
+  },
+  "105": {
+    "Director": "Clint Eastwood",
+    "Budget": 24000000,
+    "Cumulative Worldwide Gross": 182000000,
+    "Runtime": 135
+  },
+  "106": {
+    "Director": "Doris Dörrie",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 104
+  },
+  "107": {
+    "Director": "Brian Henson",
+    "Budget": 31000000,
+    "Cumulative Worldwide Gross": 34327766,
+    "Runtime": 100
+  },
+  "108": {
+    "Director": "Robert Leacock",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 95
+  },
+  "110": {
+    "Director": "Mel Gibson",
+    "Budget": 72000000,
+    "Cumulative Worldwide Gross": 213216216,
+    "Runtime": 178
+  },
+  "111": {
+    "Director": "Martin Scorsese",
+    "Budget": 1900000,
+    "Cumulative Worldwide Gross": 28579636,
+    "Runtime": 114
+  },
+  "112": {
+    "Director": "Stanley Tong Gwai-Lai",
+    "Budget": 7500000,
+    "Cumulative Worldwide Gross": 76028558,
+    "Runtime": 106
+  },
+  "113": {
+    "Director": "Barbet Schroeder",
+    "Budget": 35000000,
+    "Cumulative Worldwide Gross": 8797839,
+    "Runtime": 108
+  },
+  "116": {
+    "Director": "Jon Blair",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 117
+  },
+  "117": {
+    "Director": "Benjamin Ross",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 99
+  },
+  "118": {
+    "Director": "Eric Schaeffer",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 2420162,
+    "Runtime": 92
+  },
+  "119": {
+    "Director": "Andrew Davis",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 6278139,
+    "Runtime": 113
+  },
+  "121": {
+    "Director": "John N. Smith",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 204540,
+    "Runtime": 93
+  },
+  "122": {
+    "Director": "Reginald Hudlin",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 131052444,
+    "Runtime": 117
+  },
+  "123": {
+    "Director": "Wong Kar-Wai",
+    "Budget": 160000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 103
+  },
+  "125": {
+    "Director": "David O. Russell",
+    "Budget": 7000000,
+    "Cumulative Worldwide Gross": 14702438,
+    "Runtime": 93
+  },
+  "126": {
+    "Director": "Peter MacDonald",
+    "Budget": 17000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 95
+  },
+  "128": {
+    "Director": "Michel Negroponte",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 87
+  },
+  "129": {
+    "Director": "Bryan Gordon",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 95
+  },
+  "132": {
+    "Director": "William Friedkin",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 9851610,
+    "Runtime": 95
+  },
+  "135": {
+    "Director": "David S. Ward",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 37553585,
+    "Runtime": 92
+  },
+  "137": {
+    "Director": "Dirk Shafer",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 209935,
+    "Runtime": 86
+  },
+  "140": {
+    "Director": "Jon Avnet",
+    "Budget": 60000000,
+    "Cumulative Worldwide Gross": 100688562,
+    "Runtime": 119
+  },
+  "141": {
+    "Director": "Mike Nichols",
+    "Budget": 31000000,
+    "Cumulative Worldwide Gross": 185300000,
+    "Runtime": 119
+  },
+  "144": {
+    "Director": "Edward Burns",
+    "Budget": 25000,
+    "Cumulative Worldwide Gross": 19326506,
+    "Runtime": 98
+  },
+  "145": {
+    "Director": "Michael Bay",
+    "Budget": 19000000,
+    "Cumulative Worldwide Gross": 141407024,
+    "Runtime": 119
+  },
+  "146": {
+    "Director": "Christopher Cain",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 7506759,
+    "Runtime": 84
+  },
+  "147": {
+    "Director": "Scott Kalvert",
+    "Budget": 2000000,
+    "Cumulative Worldwide Gross": 2381087,
+    "Runtime": 102
+  },
+  "148": {
+    "Director": "Mike Newell",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 851545,
+    "Runtime": 113
+  },
+  "149": {
+    "Director": "Hal Hartley",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 105
+  },
+  "150": {
+    "Director": "Ron Howard",
+    "Budget": 52000000,
+    "Cumulative Worldwide Gross": 355237933,
+    "Runtime": 140
+  },
+  "151": {
+    "Director": "Michael Caton-Jones",
+    "Budget": 28000000,
+    "Cumulative Worldwide Gross": 31600000,
+    "Runtime": 139
+  },
+  "152": {
+    "Director": "Abel Ferrara",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 302393,
+    "Runtime": 82
+  },
+  "153": {
+    "Director": "Joel Schumacher",
+    "Budget": 100000000,
+    "Cumulative Worldwide Gross": 336529144,
+    "Runtime": 121
+  },
+  "154": {
+    "Director": "Luis Buñuel",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 101
+  },
+  "155": {
+    "Director": "John Boorman",
+    "Budget": 23000000,
+    "Cumulative Worldwide Gross": 14700000,
+    "Runtime": 100
+  },
+  "156": {
+    "Director": "Paul Auster, Wayne Wang",
+    "Budget": 2000000,
+    "Cumulative Worldwide Gross": 1300000,
+    "Runtime": 83
+  },
+  "157": {
+    "Director": "Michael Moore",
+    "Budget": 11000000,
+    "Cumulative Worldwide Gross": 178104,
+    "Runtime": 91
+  },
+  "158": {
+    "Director": "Brad Silberling",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 287928194,
+    "Runtime": 100
+  },
+  "159": {
+    "Director": "Spike Lee",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 13100000,
+    "Runtime": 128
+  },
+  "160": {
+    "Director": "Frank Marshall",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 152022101,
+    "Runtime": 108
+  },
+  "161": {
+    "Director": "Tony Scott",
+    "Budget": 53000000,
+    "Cumulative Worldwide Gross": 157387195,
+    "Runtime": 116
+  },
+  "162": {
+    "Director": "Terry Zwigoff",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 3041083,
+    "Runtime": 121
+  },
+  "163": {
+    "Director": "Robert Rodriguez",
+    "Budget": 7000000,
+    "Cumulative Worldwide Gross": 25405445,
+    "Runtime": 104
+  },
+  "164": {
+    "Director": "Carl Franklin",
+    "Budget": 27000000,
+    "Cumulative Worldwide Gross": 16140822,
+    "Runtime": 102
+  },
+  "165": {
+    "Director": "John McTiernan",
+    "Budget": 90000000,
+    "Cumulative Worldwide Gross": 366101666,
+    "Runtime": 128
+  },
+  "166": {
+    "Director": "Gregg Araki",
+    "Budget": 800000,
+    "Cumulative Worldwide Gross": 284785,
+    "Runtime": 83
+  },
+  "168": {
+    "Director": "Jerry Zucker",
+    "Budget": 55000000,
+    "Cumulative Worldwide Gross": 127600435,
+    "Runtime": 134
+  },
+  "169": {
+    "Director": "Dwight H. Little",
+    "Budget": 31000000,
+    "Cumulative Worldwide Gross": 30077111,
+    "Runtime": 95
+  },
+  "170": {
+    "Director": "Iain Softley",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 7563728,
+    "Runtime": 105
+  },
+  "171": {
+    "Director": "Christopher Ashley",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 3487767,
+    "Runtime": 92
+  },
+  "172": {
+    "Director": "Robert Longo",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 19075720,
+    "Runtime": 97
+  },
+  "173": {
+    "Director": "Danny Cannon",
+    "Budget": 90000000,
+    "Cumulative Worldwide Gross": 113493481,
+    "Runtime": 96
+  },
+  "174": {
+    "Director": "John Fortenberry",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 17014653,
+    "Runtime": 88
+  },
+  "175": {
+    "Director": "Larry Clark",
+    "Budget": 1500000,
+    "Cumulative Worldwide Gross": 20412216,
+    "Runtime": 91
+  },
+  "176": {
+    "Director": "Tom DiCillo",
+    "Budget": 500000,
+    "Cumulative Worldwide Gross": 1148752,
+    "Runtime": 90
+  },
+  "177": {
+    "Director": "Clive Barker",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 13294594,
+    "Runtime": 109
+  },
+  "178": {
+    "Director": "Denys Arcand",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 100
+  },
+  "179": {
+    "Director": "Antonia Bird",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 15453274,
+    "Runtime": 95
+  },
+  "180": {
+    "Director": "Kevin Smith",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 2122561,
+    "Runtime": 95
+  },
+  "181": {
+    "Director": "Bryan Spicer",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 66433194,
+    "Runtime": 96
+  },
+  "183": {
+    "Director": "Anthony Waller",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 95
+  },
+  "184": {
+    "Director": "Michael Almereyda",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 93
+  },
+  "185": {
+    "Director": "Irwin Winkler",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 110627965,
+    "Runtime": 114
+  },
+  "186": {
+    "Director": "Chris Columbus",
+    "Budget": 35000000,
+    "Cumulative Worldwide Gross": 138500000,
+    "Runtime": 103
+  },
+  "187": {
+    "Director": "Daisy von Scherler Mayer",
+    "Budget": 150000,
+    "Cumulative Worldwide Gross": 472370,
+    "Runtime": 94
+  },
+  "188": {
+    "Director": "Gregory Widen",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": 16115878,
+    "Runtime": 98
+  },
+  "189": {
+    "Director": "Norman René",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 91
+  },
+  "190": {
+    "Director": "Todd Haynes",
+    "Budget": 1000000,
+    "Cumulative Worldwide Gross": 512558,
+    "Runtime": 119
+  },
+  "191": {
+    "Director": "Roland Joffé",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 10382407,
+    "Runtime": 135
+  },
+  "193": {
+    "Director": "Paul Verhoeven",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 20367472,
+    "Runtime": 131
+  },
+  "194": {
+    "Director": "Wayne Wang",
+    "Budget": 7000000,
+    "Cumulative Worldwide Gross": 8349430,
+    "Runtime": 112
+  },
+  "195": {
+    "Director": "Lasse Hallström",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 77300000,
+    "Runtime": 106
+  },
+  "196": {
+    "Director": "Roger Donaldson",
+    "Budget": 35000000,
+    "Cumulative Worldwide Gross": 113400000,
+    "Runtime": 108
+  },
+  "198": {
+    "Director": "Kathryn Bigelow",
+    "Budget": 42000000,
+    "Cumulative Worldwide Gross": 7959291,
+    "Runtime": 145
+  },
+  "199": {
+    "Director": "Jacques Demy",
+    "Budget": 200000,
+    "Cumulative Worldwide Gross": 7600000,
+    "Runtime": 93
+  },
+  "201": {
+    "Director": "Martha Coolidge",
+    "Budget": 10000000,
+    "Cumulative Worldwide Gross": 7027000,
+    "Runtime": 115
+  },
+  "202": {
+    "Director": "Agnieszka Holland",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 339889,
+    "Runtime": 111
+  },
+  "203": {
+    "Director": "Beeban Kidron",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 47774193,
+    "Runtime": 108
+  },
+  "204": {
+    "Director": "Geoff Murphy",
+    "Budget": 60000000,
+    "Cumulative Worldwide Gross": 104324083,
+    "Runtime": 99
+  },
+  "205": {
+    "Director": "Diane Keaton",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 93
+  },
+  "206": {
+    "Director": "Douglas Keeve",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 73
+  },
+  "207": {
+    "Director": "Alfonso Arau",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 50012507,
+    "Runtime": 103
+  },
+  "208": {
+    "Director": "Kevin Reynolds",
+    "Budget": 175000000,
+    "Cumulative Worldwide Gross": 264218220,
+    "Runtime": 135
+  },
+  "209": {
+    "Director": "Desmond Nakano",
+    "Budget": 7000000,
+    "Cumulative Worldwide Gross": 9000000,
+    "Runtime": 89
+  },
+  "210": {
+    "Director": "Walter Hill",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 2193982,
+    "Runtime": 98
+  },
+  "211": {
+    "Director": "Mike Figgis",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 487391,
+    "Runtime": 97
+  },
+  "212": {
+    "Director": "Greg Beeman",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 7919823,
+    "Runtime": 90
+  },
+  "213": {
+    "Director": "Nikita Mikhalkov",
+    "Budget": 2800000,
+    "Cumulative Worldwide Gross": 2616503,
+    "Runtime": 135
+  },
+  "214": {
+    "Director": "Milcho Manchevski",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 763847,
+    "Runtime": 113
+  },
+  "215": {
+    "Director": "Richard Linklater",
+    "Budget": 2500000,
+    "Cumulative Worldwide Gross": 5987386,
+    "Runtime": 101
+  },
+  "216": {
+    "Director": "Tamra Davis",
+    "Budget": 10000000,
+    "Cumulative Worldwide Gross": 26488734,
+    "Runtime": 90
+  },
+  "217": {
+    "Director": "Guy Ferland",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 90
+  },
+  "218": {
+    "Director": "Herbert Ross",
+    "Budget": 21000000,
+    "Cumulative Worldwide Gross": 23450000,
+    "Runtime": 115
+  },
+  "219": {
+    "Director": "Peter Horton",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 2568235,
+    "Runtime": 97
+  },
+  "220": {
+    "Director": "Stuart Gordon",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 90
+  },
+  "222": {
+    "Director": "Pat O'Connor",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 45000000,
+    "Runtime": 103
+  },
+  "223": {
+    "Director": "Kevin Smith",
+    "Budget": 27575,
+    "Cumulative Worldwide Gross": 3158707,
+    "Runtime": 92
+  },
+  "224": {
+    "Director": "Jeremy Leven",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 68792531,
+    "Runtime": 97
+  },
+  "225": {
+    "Director": "Barry Levinson",
+    "Budget": 55000000,
+    "Cumulative Worldwide Gross": 214015089,
+    "Runtime": 128
+  },
+  "227": {
+    "Director": "John Badham",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 62000000,
+    "Runtime": 101
+  },
+  "228": {
+    "Director": "Jack Baran",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1200000,
+    "Runtime": 103
+  },
+  "229": {
+    "Director": "Roman Polanski",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 8003716,
+    "Runtime": 103
+  },
+  "230": {
+    "Director": "Taylor Hackford",
+    "Budget": 13000000,
+    "Cumulative Worldwide Gross": 46400000,
+    "Runtime": 132
+  },
+  "231": {
+    "Director": "Peter Farrelly",
+    "Budget": 16000000,
+    "Cumulative Worldwide Gross": 247275374,
+    "Runtime": 107
+  },
+  "232": {
+    "Director": "Ang Lee",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 24194403,
+    "Runtime": 123
+  },
+  "233": {
+    "Director": "Atom Egoyan",
+    "Budget": 2000000,
+    "Cumulative Worldwide Gross": 4221036,
+    "Runtime": 103
+  },
+  "234": {
+    "Director": "Garry Marshall",
+    "Budget": 27500000,
+    "Cumulative Worldwide Gross": 6800000,
+    "Runtime": 114
+  },
+  "235": {
+    "Director": "Tim Burton",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 5900000,
+    "Runtime": 127
+  },
+  "236": {
+    "Director": "Lawrence Kasdan",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 101982854,
+    "Runtime": 111
+  },
+  "237": {
+    "Director": "Billy Crystal",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 33177694,
+    "Runtime": 101
+  },
+  "238": {
+    "Director": "Phillip Borsos",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 81
+  },
+  "239": {
+    "Director": "Kevin Lima",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 35348597,
+    "Runtime": 78
+  },
+  "240": {
+    "Director": "Brett Leonard",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 12201255,
+    "Runtime": 103
+  },
+  "241": {
+    "Director": "Carlo Carlei",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 4000000,
+    "Runtime": 96
+  },
+  "242": {
+    "Director": "Gérard Corbiau",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 111
+  },
+  "243": {
+    "Director": "Mark Lewis",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 3992809,
+    "Runtime": 90
+  },
+  "246": {
+    "Director": "Steve James",
+    "Budget": 700000,
+    "Cumulative Worldwide Gross": 7830611,
+    "Runtime": 174
+  },
+  "247": {
+    "Director": "Peter Jackson",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 3049135,
+    "Runtime": 109
+  },
+  "248": {
+    "Director": "Randall Miller",
+    "Budget": 10500000,
+    "Cumulative Worldwide Gross": 26300000,
+    "Runtime": 109
+  },
+  "249": {
+    "Director": "Bernard Rose",
+    "Budget": 120,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 121
+  },
+  "250": {
+    "Director": "Steven Brill",
+    "Budget": 10000000,
+    "Cumulative Worldwide Gross": 17700000,
+    "Runtime": 97
+  },
+  "251": {
+    "Director": "J.F. Lawton",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 6600000,
+    "Runtime": 110
+  },
+  "252": {
+    "Director": "Fred Schepisi",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 26381221,
+    "Runtime": 100
+  },
+  "253": {
+    "Director": "Neil Jordan",
+    "Budget": 60000000,
+    "Cumulative Worldwide Gross": 223664608,
+    "Runtime": 123
+  },
+  "254": {
+    "Director": "James Ivory",
+    "Budget": 14000000,
+    "Cumulative Worldwide Gross": 2474000,
+    "Runtime": 139
+  },
+  "255": {
+    "Director": "James Melkonian",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 82
+  },
+  "256": {
+    "Director": "Ivan Reitman",
+    "Budget": 60000000,
+    "Cumulative Worldwide Gross": 108400000,
+    "Runtime": 110
+  },
+  "257": {
+    "Director": "Arne Glimcher",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 36853222,
+    "Runtime": 102
+  },
+  "258": {
+    "Director": "Michael Gottlieb",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 89
+  },
+  "259": {
+    "Director": "Barbet Schroeder",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 14942422,
+    "Runtime": 101
+  },
+  "260": {
+    "Director": "George Lucas",
+    "Budget": 11000000,
+    "Cumulative Worldwide Gross": 775398007,
+    "Runtime": 121
+  },
+  "261": {
+    "Director": "Gillian Armstrong",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 94983123,
+    "Runtime": 115
+  },
+  "262": {
+    "Director": "Alfonso Cuarón",
+    "Budget": 17000000,
+    "Cumulative Worldwide Gross": 10000000,
+    "Runtime": 97
+  },
+  "263": {
+    "Director": "Ken Loach",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 101
+  },
+  "265": {
+    "Director": "Alfonso Arau",
+    "Budget": 2000000,
+    "Cumulative Worldwide Gross": 21744201,
+    "Runtime": 105
+  },
+  "266": {
+    "Director": "Edward Zwick",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 160638883,
+    "Runtime": 133
+  },
+  "267": {
+    "Director": "Nick Castle",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 30112050,
+    "Runtime": 95
+  },
+  "269": {
+    "Director": "Allison Anders",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 3267313,
+    "Runtime": 92
+  },
+  "270": {
+    "Director": "Glenn Gordon Caron",
+    "Budget": 60000000,
+    "Cumulative Worldwide Gross": 18300000,
+    "Runtime": 108
+  },
+  "271": {
+    "Director": "Stephen Gyllenhaal",
+    "Budget": 17000000,
+    "Cumulative Worldwide Gross": 7603766,
+    "Runtime": 106
+  },
+  "272": {
+    "Director": "Nicholas Hytner",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 15238994,
+    "Runtime": 107
+  },
+  "273": {
+    "Director": "Kenneth Branagh",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 112000000,
+    "Runtime": 123
+  },
+  "274": {
+    "Director": "James Orr",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 96
+  },
+  "275": {
+    "Director": "Nora Ephron",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 97
+  },
+  "276": {
+    "Director": "Richard Benjamin",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 18137661,
+    "Runtime": 108
+  },
+  "277": {
+    "Director": "Les Mayfield",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 46264384,
+    "Runtime": 114
+  },
+  "278": {
+    "Director": "David Frankel",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 5,
+    "Runtime": 95
+  },
+  "279": {
+    "Director": "Gregory Nava",
+    "Budget": 5500000,
+    "Cumulative Worldwide Gross": 11079373,
+    "Runtime": 128
+  },
+  "280": {
+    "Director": "Marc Rocco",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 29500000,
+    "Runtime": 122
+  },
+  "281": {
+    "Director": "Robert Benton",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 39491975,
+    "Runtime": 110
+  },
+  "282": {
+    "Director": "Michael Apted",
+    "Budget": 31000000,
+    "Cumulative Worldwide Gross": 106683817,
+    "Runtime": 112
+  },
+  "283": {
+    "Director": "Nick Gomez",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 98
+  },
+  "284": {
+    "Director": "Tōru Murakawa",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 88
+  },
+  "285": {
+    "Director": "Vadim Jean",
+    "Budget": 4800000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 89
+  },
+  "287": {
+    "Director": "Alan Jacobs",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 100
+  },
+  "288": {
+    "Director": "Oliver Stone",
+    "Budget": 34000000,
+    "Cumulative Worldwide Gross": 50283563,
+    "Runtime": 119
+  },
+  "289": {
+    "Director": "Norman Jewison",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 20059210,
+    "Runtime": 109
+  },
+  "290": {
+    "Director": "Lee Tamahori",
+    "Budget": 950000,
+    "Cumulative Worldwide Gross": 6700000,
+    "Runtime": 99
+  },
+  "291": {
+    "Director": "Anne Goursaud",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 106
+  },
+  "292": {
+    "Director": "Wolfgang Petersen",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 189900000,
+    "Runtime": 129
+  },
+  "293": {
+    "Director": "Luc Besson",
+    "Budget": 16000000,
+    "Cumulative Worldwide Gross": 45284974,
+    "Runtime": 111
+  },
+  "294": {
+    "Director": "Mira Nair",
+    "Budget": 11000000,
+    "Cumulative Worldwide Gross": 2832826,
+    "Runtime": 113
+  },
+  "295": {
+    "Director": "Joshua Brand",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 345972,
+    "Runtime": 94
+  },
+  "296": {
+    "Director": "Quentin Tarantino",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": 213928762,
+    "Runtime": 154
+  },
+  "298": {
+    "Director": "Ang Lee",
+    "Budget": 400000,
+    "Cumulative Worldwide Gross": 152322,
+    "Runtime": 105
+  },
+  "299": {
+    "Director": "Antonia Bird",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 4176932,
+    "Runtime": 98
+  },
+  "300": {
+    "Director": "Robert Redford",
+    "Budget": 31000000,
+    "Cumulative Worldwide Gross": 24822619,
+    "Runtime": 133
+  },
+  "301": {
+    "Director": "Kayo Hatta",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 94
+  },
+  "302": {
+    "Director": "Patrice Chéreau",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1318578,
+    "Runtime": 138
+  },
+  "303": {
+    "Director": "Sam Raimi",
+    "Budget": 35000000,
+    "Cumulative Worldwide Gross": 47000000,
+    "Runtime": 107
+  },
+  "304": {
+    "Director": "Peter Yates",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 12400000,
+    "Runtime": 108
+  },
+  "305": {
+    "Director": "Robert Altman",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 11300653,
+    "Runtime": 133
+  },
+  "306": {
+    "Director": "Krzysztof Kieślowski",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 4127033,
+    "Runtime": 100
+  },
+  "307": {
+    "Director": "Krzysztof Kieślowski",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1527572,
+    "Runtime": 98
+  },
+  "308": {
+    "Director": "Krzysztof Kieślowski",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1273525,
+    "Runtime": 92
+  },
+  "310": {
+    "Director": "Fred Gerber",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 85
+  },
+  "311": {
+    "Director": "George Mihalka",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 90
+  },
+  "312": {
+    "Director": "Harold Ramis",
+    "Budget": 6300000,
+    "Cumulative Worldwide Gross": 912082,
+    "Runtime": 95
+  },
+  "313": {
+    "Director": "Richard Rich",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 9771658,
+    "Runtime": 89
+  },
+  "314": {
+    "Director": "John Sayles",
+    "Budget": 5700000,
+    "Cumulative Worldwide Gross": 6160000,
+    "Runtime": 103
+  },
+  "315": {
+    "Director": "Luis Llosa",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 170362582,
+    "Runtime": 110
+  },
+  "316": {
+    "Director": "Roland Emmerich",
+    "Budget": 55000000,
+    "Cumulative Worldwide Gross": 196567262,
+    "Runtime": 121
+  },
+  "317": {
+    "Director": "John Pasquin",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 189833357,
+    "Runtime": 97
+  },
+  "318": {
+    "Director": "Frank Darabont",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 28341469,
+    "Runtime": 142
+  },
+  "319": {
+    "Director": "Danny Boyle",
+    "Budget": 2500000,
+    "Cumulative Worldwide Gross": 19779614,
+    "Runtime": 93
+  },
+  "320": {
+    "Director": "Scott McGehee, David Siegel",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 102780,
+    "Runtime": 96
+  },
+  "321": {
+    "Director": "Tomás Gutiérrez Alea, Juan Carlos Tabío",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 2087569,
+    "Runtime": 108
+  },
+  "322": {
+    "Director": "George Huang",
+    "Budget": 700000,
+    "Cumulative Worldwide Gross": 382928,
+    "Runtime": 93
+  },
+  "324": {
+    "Director": "Kevin Dowling, Geoff Burton",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 100
+  },
+  "325": {
+    "Director": "Kelly Makin",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 91
+  },
+  "326": {
+    "Director": "Zhang Yimou",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 133
+  },
+  "327": {
+    "Director": "Rachel Talalay",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 4064495,
+    "Runtime": 104
+  },
+  "328": {
+    "Director": "Ernest R. Dickerson",
+    "Budget": 13000000,
+    "Cumulative Worldwide Gross": 21089146,
+    "Runtime": 93
+  },
+  "329": {
+    "Director": "David Carson",
+    "Budget": 38000000,
+    "Cumulative Worldwide Gross": 118071125,
+    "Runtime": 118
+  },
+  "330": {
+    "Director": "Rusty Cundieff",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 12000000,
+    "Runtime": 98
+  },
+  "331": {
+    "Director": "Brian Gilbert",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 115
+  },
+  "332": {
+    "Director": "John Carpenter",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 9418365,
+    "Runtime": 99
+  },
+  "333": {
+    "Director": "Peter Segal",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 32648673,
+    "Runtime": 98
+  },
+  "334": {
+    "Director": "Louis Malle",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1746050,
+    "Runtime": 120
+  },
+  "335": {
+    "Director": "Steven Soderbergh",
+    "Budget": 6500000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 99
+  },
+  "336": {
+    "Director": "Preston A. Whitmore II",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 6014541,
+    "Runtime": 88
+  },
+  "337": {
+    "Director": "Lasse Hallström",
+    "Budget": 11000000,
+    "Cumulative Worldwide Gross": 10000000,
+    "Runtime": 118
+  },
+  "338": {
+    "Director": "Brett Leonard",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 24048000,
+    "Runtime": 106
+  },
+  "339": {
+    "Director": "Jon Turteltaub",
+    "Budget": 17000000,
+    "Cumulative Worldwide Gross": 182100000,
+    "Runtime": 103
+  },
+  "340": {
+    "Director": "Jon Avnet",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 16,
+    "Runtime": 126
+  },
+  "341": {
+    "Director": "Mina Shum",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 759393,
+    "Runtime": 87
+  },
+  "342": {
+    "Director": "P.J. Hogan",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 15119639,
+    "Runtime": 106
+  },
+  "343": {
+    "Director": "Melanie Mayron",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 94
+  },
+  "344": {
+    "Director": "Tom Shadyac",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 107217396,
+    "Runtime": 86
+  },
+  "345": {
+    "Director": "Stephan Elliott",
+    "Budget": 2000000,
+    "Cumulative Worldwide Gross": 29700000,
+    "Runtime": 103
+  },
+  "346": {
+    "Director": "Iain Softley",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 100
+  },
+  "347": {
+    "Director": "Roman Polanski",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 1862805,
+    "Runtime": 139
+  },
+  "348": {
+    "Director": "Woody Allen",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 37483747,
+    "Runtime": 98
+  },
+  "349": {
+    "Director": "Phillip Noyce",
+    "Budget": 62000000,
+    "Cumulative Worldwide Gross": 215887717,
+    "Runtime": 141
+  },
+  "350": {
+    "Director": "Joel Schumacher",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 117615211,
+    "Runtime": 119
+  },
+  "351": {
+    "Director": "Jessie Nelson",
+    "Budget": 12500000,
+    "Cumulative Worldwide Gross": 20100000,
+    "Runtime": 115
+  },
+  "352": {
+    "Director": "Spike Lee",
+    "Budget": 14000000,
+    "Cumulative Worldwide Gross": 13640000,
+    "Runtime": 114
+  },
+  "353": {
+    "Director": "Alex Proyas",
+    "Budget": 23000000,
+    "Cumulative Worldwide Gross": 93722164,
+    "Runtime": 102
+  },
+  "354": {
+    "Director": "Ron Shelton",
+    "Budget": 25500000,
+    "Cumulative Worldwide Gross": 1007583,
+    "Runtime": 128
+  },
+  "355": {
+    "Director": "Brian Levant",
+    "Budget": 46000000,
+    "Cumulative Worldwide Gross": 341631208,
+    "Runtime": 91
+  },
+  "356": {
+    "Director": "Robert Zemeckis",
+    "Budget": 55000000,
+    "Cumulative Worldwide Gross": 677387716,
+    "Runtime": 142
+  },
+  "357": {
+    "Director": "Mike Newell",
+    "Budget": 4400000,
+    "Cumulative Worldwide Gross": 245700832,
+    "Runtime": 117
+  },
+  "358": {
+    "Director": "John Singleton",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 38300000,
+    "Runtime": 128
+  },
+  "359": {
+    "Director": "Darnell Martin",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1777020,
+    "Runtime": 104
+  },
+  "360": {
+    "Director": "Charles Shyer",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 61947267,
+    "Runtime": 123
+  },
+  "361": {
+    "Director": "Andrew Bergman",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 37939757,
+    "Runtime": 101
+  },
+  "362": {
+    "Director": "Stephen Sommers",
+    "Budget": 27000000,
+    "Cumulative Worldwide Gross": 53508356,
+    "Runtime": 111
+  },
+  "363": {
+    "Director": "Ray Müller",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 449707,
+    "Runtime": 188
+  },
+  "364": {
+    "Director": "Roger Allers, Rob Minkoff",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 763455561,
+    "Runtime": 89
+  },
+  "365": {
+    "Director": "Bernardo Bertolucci",
+    "Budget": 35000000,
+    "Cumulative Worldwide Gross": 4900000,
+    "Runtime": 123
+  },
+  "366": {
+    "Director": "Wes Craven",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": 19721741,
+    "Runtime": 112
+  },
+  "367": {
+    "Director": "Chuck Russell",
+    "Budget": 23000000,
+    "Cumulative Worldwide Gross": 351583407,
+    "Runtime": 101
+  },
+  "368": {
+    "Director": "Richard Donner",
+    "Budget": 75000000,
+    "Cumulative Worldwide Gross": 183031272,
+    "Runtime": 127
+  },
+  "369": {
+    "Director": "Alan Rudolph",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 125
+  },
+  "370": {
+    "Director": "Peter Segal",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 132032598,
+    "Runtime": 83
+  },
+  "371": {
+    "Director": "Ron Howard",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 48400000,
+    "Runtime": 112
+  },
+  "372": {
+    "Director": "Ben Stiller",
+    "Budget": 11500000,
+    "Cumulative Worldwide Gross": 33351557,
+    "Runtime": 98
+  },
+  "373": {
+    "Director": "John Dahl",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": 2500000,
+    "Runtime": 98
+  },
+  "374": {
+    "Director": "Donald Petrie",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 38087756,
+    "Runtime": 94
+  },
+  "376": {
+    "Director": "Curtis Hanson",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 94216343,
+    "Runtime": 111
+  },
+  "377": {
+    "Director": "Jan de Bont",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 350448145,
+    "Runtime": 116
+  },
+  "378": {
+    "Director": "Ron Underwood",
+    "Budget": 38000000,
+    "Cumulative Worldwide Gross": 25067959,
+    "Runtime": 99
+  },
+  "379": {
+    "Director": "Peter Hyams",
+    "Budget": 28000000,
+    "Cumulative Worldwide Gross": 128953581,
+    "Runtime": 98
+  },
+  "380": {
+    "Director": "James Cameron",
+    "Budget": 115000000,
+    "Cumulative Worldwide Gross": 378900000,
+    "Runtime": 141
+  },
+  "381": {
+    "Director": "Luis Mandoki",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 50021959,
+    "Runtime": 126
+  },
+  "382": {
+    "Director": "Mike Nichols",
+    "Budget": 70000000,
+    "Cumulative Worldwide Gross": 131002597,
+    "Runtime": 125
+  },
+  "383": {
+    "Director": "Lawrence Kasdan",
+    "Budget": 63000000,
+    "Cumulative Worldwide Gross": 25052000,
+    "Runtime": 191
+  },
+  "384": {
+    "Director": "Damian Harris",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 108
+  },
+  "385": {
+    "Director": "Suri Krishnamma",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 934550,
+    "Runtime": 99
+  },
+  "386": {
+    "Director": "Jefery Levy",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 96
+  },
+  "387": {
+    "Director": "Keenen Ivory Wayans",
+    "Budget": 10000000,
+    "Cumulative Worldwide Gross": 29392418,
+    "Runtime": 100
+  },
+  "388": {
+    "Director": "Brian Sloan, Raoul O'Connell, Robert Lee King",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 91
+  },
+  "389": {
+    "Director": "Yves Angelo",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 110
+  },
+  "390": {
+    "Director": "Russ Meyer",
+    "Budget": 45000,
+    "Cumulative Worldwide Gross": 36122,
+    "Runtime": 83
+  },
+  "391": {
+    "Director": "Doug McHenry",
+    "Budget": 7000000,
+    "Cumulative Worldwide Gross": 20851521,
+    "Runtime": 119
+  },
+  "393": {
+    "Director": "Steven E. de Souza",
+    "Budget": 35000000,
+    "Cumulative Worldwide Gross": 99423521,
+    "Runtime": 102
+  },
+  "405": {
+    "Director": "Andrew Morahan",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 36738574,
+    "Runtime": 99
+  },
+  "406": {
+    "Director": "Michael Corrente",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 97
+  },
+  "407": {
+    "Director": "John Carpenter",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": 8946600,
+    "Runtime": 95
+  },
+  "408": {
+    "Director": "John G. Avildsen",
+    "Budget": 7000000,
+    "Cumulative Worldwide Gross": 19623396,
+    "Runtime": 105
+  },
+  "409": {
+    "Director": "Jeff Pollack",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 96
+  },
+  "410": {
+    "Director": "Barry Sonnenfeld",
+    "Budget": 47000000,
+    "Cumulative Worldwide Gross": 48919043,
+    "Runtime": 94
+  },
+  "412": {
+    "Director": "Martin Scorsese",
+    "Budget": 34000000,
+    "Cumulative Worldwide Gross": 32255440,
+    "Runtime": 138
+  },
+  "413": {
+    "Director": "Michael Lehmann",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 5751882,
+    "Runtime": 92
+  },
+  "414": {
+    "Director": "Paul Michael Glaser",
+    "Budget": 17000000,
+    "Cumulative Worldwide Gross": 21011500,
+    "Runtime": 107
+  },
+  "415": {
+    "Director": "John Badham",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 30008496,
+    "Runtime": 109
+  },
+  "416": {
+    "Director": "Jonathan Kaplan",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 15240435,
+    "Runtime": 99
+  },
+  "417": {
+    "Director": "Whit Stillman",
+    "Budget": 3200000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 100
+  },
+  "418": {
+    "Director": "Bill Forsyth",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 5000000,
+    "Runtime": 122
+  },
+  "419": {
+    "Director": "Penelope Spheeris",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 57405220,
+    "Runtime": 93
+  },
+  "420": {
+    "Director": "John Landis",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 119208989,
+    "Runtime": 105
+  },
+  "421": {
+    "Director": "Caroline Thompson",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 88
+  },
+  "422": {
+    "Director": "Michael Apted",
+    "Budget": 11000000,
+    "Cumulative Worldwide Gross": 16668552,
+    "Runtime": 106
+  },
+  "423": {
+    "Director": "Stephen Hopkins",
+    "Budget": 28000000,
+    "Cumulative Worldwide Gross": 30156002,
+    "Runtime": 121
+  },
+  "424": {
+    "Director": "William Friedkin",
+    "Budget": 35000000,
+    "Cumulative Worldwide Gross": 26000000,
+    "Runtime": 108
+  },
+  "425": {
+    "Director": "Tony Richardson",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 101
+  },
+  "426": {
+    "Director": "Abel Ferrara",
+    "Budget": 13000000,
+    "Cumulative Worldwide Gross": 428868,
+    "Runtime": 87
+  },
+  "427": {
+    "Director": "Jennifer Lynch",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 1796389,
+    "Runtime": 107
+  },
+  "428": {
+    "Director": "Robert De Niro",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 17287898,
+    "Runtime": 121
+  },
+  "429": {
+    "Director": "Adam Resnick",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 3662459,
+    "Runtime": 80
+  },
+  "430": {
+    "Director": "John Whitesell",
+    "Budget": 13000000,
+    "Cumulative Worldwide Gross": 2600000,
+    "Runtime": 90
+  },
+  "431": {
+    "Director": "Brian De Palma",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 63848322,
+    "Runtime": 144
+  },
+  "432": {
+    "Director": "Paul Weiland",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 72000000,
+    "Runtime": 116
+  },
+  "433": {
+    "Director": "Mick Jackson",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 7355425,
+    "Runtime": 107
+  },
+  "434": {
+    "Director": "Renny Harlin",
+    "Budget": 70000000,
+    "Cumulative Worldwide Gross": 255000211,
+    "Runtime": 113
+  },
+  "435": {
+    "Director": "Steve Barron",
+    "Budget": 33000000,
+    "Cumulative Worldwide Gross": 21274717,
+    "Runtime": 87
+  },
+  "436": {
+    "Director": "Richard Rush",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 19700000,
+    "Runtime": 121
+  },
+  "437": {
+    "Director": "Michael Ritchie",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 11391093,
+    "Runtime": 93
+  },
+  "438": {
+    "Director": "Gregg Champion",
+    "Budget": 35000000,
+    "Cumulative Worldwide Gross": 25000000,
+    "Runtime": 107
+  },
+  "440": {
+    "Director": "Ivan Reitman",
+    "Budget": 28000000,
+    "Cumulative Worldwide Gross": 92000000,
+    "Runtime": 110
+  },
+  "441": {
+    "Director": "Richard Linklater",
+    "Budget": 6900000,
+    "Cumulative Worldwide Gross": 8259076,
+    "Runtime": 102
+  },
+  "442": {
+    "Director": "Marco Brambilla",
+    "Budget": 57000000,
+    "Cumulative Worldwide Gross": 159055768,
+    "Runtime": 115
+  },
+  "444": {
+    "Director": "Gus Van Sant",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 96
+  },
+  "445": {
+    "Director": "Carl Reiner",
+    "Budget": 10000000,
+    "Cumulative Worldwide Gross": 7839327,
+    "Runtime": 90
+  },
+  "446": {
+    "Director": "Chen Kaige",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 6400000,
+    "Runtime": 171
+  },
+  "448": {
+    "Director": "Peter Weir",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 6995302,
+    "Runtime": 122
+  },
+  "449": {
+    "Director": "Rusty Cundieff",
+    "Budget": 1000000,
+    "Cumulative Worldwide Gross": 233824,
+    "Runtime": 88
+  },
+  "450": {
+    "Director": "Alek Keshishian",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 20016254,
+    "Runtime": 103
+  },
+  "451": {
+    "Director": "Steve Kloves",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 9709451,
+    "Runtime": 126
+  },
+  "452": {
+    "Director": "John Irvin",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 101
+  },
+  "453": {
+    "Director": "Barry Sonnenfeld",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 11146270,
+    "Runtime": 94
+  },
+  "454": {
+    "Director": "Sydney Pollack",
+    "Budget": 42000000,
+    "Cumulative Worldwide Gross": 270248367,
+    "Runtime": 154
+  },
+  "455": {
+    "Director": "Simon Wincer",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 153698625,
+    "Runtime": 112
+  },
+  "456": {
+    "Director": "Boaz Yakin",
+    "Budget": 3500000,
+    "Cumulative Worldwide Gross": 8094616,
+    "Runtime": 114
+  },
+  "457": {
+    "Director": "Andrew Davis",
+    "Budget": 44000000,
+    "Cumulative Worldwide Gross": 353808222,
+    "Runtime": 131
+  },
+  "458": {
+    "Director": "Walter Hill",
+    "Budget": 35000000,
+    "Cumulative Worldwide Gross": 18635620,
+    "Runtime": 115
+  },
+  "459": {
+    "Director": "Roger Donaldson",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 30057974,
+    "Runtime": 115
+  },
+  "460": {
+    "Director": "Howard Deutch",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 53769594,
+    "Runtime": 109
+  },
+  "461": {
+    "Director": "Rose Troche",
+    "Budget": 15000,
+    "Cumulative Worldwide Gross": 2405285,
+    "Runtime": 83
+  },
+  "464": {
+    "Director": "John Woo",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 74189677,
+    "Runtime": 99
+  },
+  "466": {
+    "Director": "Jim Abrahams",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 133752825,
+    "Runtime": 88
+  },
+  "467": {
+    "Director": "Julianna Lavin",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 95
+  },
+  "468": {
+    "Director": "Christopher Monger",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 10904930,
+    "Runtime": 91
+  },
+  "469": {
+    "Director": "Bille August",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 6265311,
+    "Runtime": 140
+  },
+  "470": {
+    "Director": "Eric Meza",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 94
+  },
+  "471": {
+    "Director": "Joel Coen, Ethan Coen",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 2800000,
+    "Runtime": 111
+  },
+  "472": {
+    "Director": "James L. Brooks",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 115
+  },
+  "473": {
+    "Director": "Daniel Petrie Jr.",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 28881266,
+    "Runtime": 91
+  },
+  "474": {
+    "Director": "Wolfgang Petersen",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 177000000,
+    "Runtime": 128
+  },
+  "475": {
+    "Director": "Jim Sheridan",
+    "Budget": 13000000,
+    "Cumulative Worldwide Gross": 65796862,
+    "Runtime": 133
+  },
+  "476": {
+    "Director": "Matty Rich",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 8880705,
+    "Runtime": 110
+  },
+  "477": {
+    "Director": "Brian Gibson",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 39100000,
+    "Runtime": 118
+  },
+  "478": {
+    "Director": "Barry Levinson",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 3800000,
+    "Runtime": 112
+  },
+  "479": {
+    "Director": "Stephen Hopkins",
+    "Budget": 21000000,
+    "Cumulative Worldwide Gross": 12136938,
+    "Runtime": 109
+  },
+  "480": {
+    "Director": "Steven Spielberg",
+    "Budget": 63000000,
+    "Cumulative Worldwide Gross": 920100000,
+    "Runtime": 127
+  },
+  "481": {
+    "Director": "Dominic Sena",
+    "Budget": 9000000,
+    "Cumulative Worldwide Gross": 2395231,
+    "Runtime": 118
+  },
+  "482": {
+    "Director": "Roger Avary",
+    "Budget": 1500000,
+    "Cumulative Worldwide Gross": 418961,
+    "Runtime": 96
+  },
+  "484": {
+    "Director": "Daniel Petrie",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 9994609,
+    "Runtime": 94
+  },
+  "485": {
+    "Director": "John McTiernan",
+    "Budget": 85000000,
+    "Cumulative Worldwide Gross": 137298489,
+    "Runtime": 131
+  },
+  "486": {
+    "Director": "James Lapine",
+    "Budget": 2000000,
+    "Cumulative Worldwide Gross": 12440858,
+    "Runtime": 91
+  },
+  "487": {
+    "Director": "Simon Wincer",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 98
+  },
+  "488": {
+    "Director": "David Cronenberg",
+    "Budget": 17000000,
+    "Cumulative Worldwide Gross": 1499795,
+    "Runtime": 101
+  },
+  "489": {
+    "Director": "Richard Benjamin",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 104942695,
+    "Runtime": 111
+  },
+  "490": {
+    "Director": "Harold Becker",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 46405336,
+    "Runtime": 107
+  },
+  "491": {
+    "Director": "Mel Gibson",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 36560338,
+    "Runtime": 115
+  },
+  "492": {
+    "Director": "Woody Allen",
+    "Budget": 13500000,
+    "Cumulative Worldwide Gross": 11285588,
+    "Runtime": 104
+  },
+  "493": {
+    "Director": "Albert Hughes, Allen Hughes",
+    "Budget": 3500000,
+    "Cumulative Worldwide Gross": 27900000,
+    "Runtime": 97
+  },
+  "494": {
+    "Director": "Stuart Baird",
+    "Budget": 55000000,
+    "Cumulative Worldwide Gross": 121969216,
+    "Runtime": 132
+  },
+  "495": {
+    "Director": "Nagisa Ōshima",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 7650000,
+    "Runtime": 105
+  },
+  "496": {
+    "Director": "Tom Noonan",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 91
+  },
+  "497": {
+    "Director": "Kenneth Branagh",
+    "Budget": 11000000,
+    "Cumulative Worldwide Gross": 22600000,
+    "Runtime": 111
+  },
+  "499": {
+    "Director": "Anthony Minghella",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 3125424,
+    "Runtime": 98
+  },
+  "500": {
+    "Director": "Chris Columbus",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 441286195,
+    "Runtime": 125
+  },
+  "501": {
+    "Director": "Mike Leigh",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1769305,
+    "Runtime": 131
+  },
+  "502": {
+    "Director": "Christopher Cain",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 15876353,
+    "Runtime": 107
+  },
+  "504": {
+    "Director": "Martin Campbell",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 15340000,
+    "Runtime": 118
+  },
+  "505": {
+    "Director": "Rob Reiner",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 7182747,
+    "Runtime": 87
+  },
+  "506": {
+    "Director": "Sally Potter",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 5377643,
+    "Runtime": 94
+  },
+  "507": {
+    "Director": "Clint Eastwood",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 135100000,
+    "Runtime": 138
+  },
+  "508": {
+    "Director": "Jonathan Demme",
+    "Budget": 26000000,
+    "Cumulative Worldwide Gross": 206678440,
+    "Runtime": 126
+  },
+  "509": {
+    "Director": "Jane Campion",
+    "Budget": 7000000,
+    "Cumulative Worldwide Gross": 40200000,
+    "Runtime": 120
+  },
+  "510": {
+    "Director": "John Singleton",
+    "Budget": 14000000,
+    "Cumulative Worldwide Gross": 27515786,
+    "Runtime": 109
+  },
+  "511": {
+    "Director": "David S. Ward",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 23042200,
+    "Runtime": 112
+  },
+  "512": {
+    "Director": "Stuart Orme",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 8600000,
+    "Runtime": 109
+  },
+  "513": {
+    "Director": "Mel Smith",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 108
+  },
+  "514": {
+    "Director": "Ted Demme",
+    "Budget": 11000000,
+    "Cumulative Worldwide Gross": 11400000,
+    "Runtime": 97
+  },
+  "515": {
+    "Director": "James Ivory",
+    "Budget": 11500000,
+    "Cumulative Worldwide Gross": 23240144,
+    "Runtime": 134
+  },
+  "516": {
+    "Director": "Penny Marshall",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 24332324,
+    "Runtime": 128
+  },
+  "517": {
+    "Director": "Philip Kaufman",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 107198790,
+    "Runtime": 129
+  },
+  "518": {
+    "Director": "Alan Parker",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 26000000,
+    "Runtime": 118
+  },
+  "519": {
+    "Director": "Fred Dekker",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 10696210,
+    "Runtime": 105
+  },
+  "520": {
+    "Director": "Mel Brooks",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 35739755,
+    "Runtime": 104
+  },
+  "521": {
+    "Director": "Peter Medak",
+    "Budget": 11500000,
+    "Cumulative Worldwide Gross": 3275585,
+    "Runtime": 110
+  },
+  "522": {
+    "Director": "Geoffrey Wright",
+    "Budget": 1600000,
+    "Cumulative Worldwide Gross": 3300000,
+    "Runtime": 94
+  },
+  "523": {
+    "Director": "Victor Nuñez",
+    "Budget": 800000,
+    "Cumulative Worldwide Gross": 1001437,
+    "Runtime": 114
+  },
+  "524": {
+    "Director": "David Anspaugh",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 22800000,
+    "Runtime": 114
+  },
+  "526": {
+    "Director": "Cyril Collard",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 126
+  },
+  "527": {
+    "Director": "Steven Spielberg",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 321365567,
+    "Runtime": 195
+  },
+  "528": {
+    "Director": "Michael Ritchie",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 2694234,
+    "Runtime": 101
+  },
+  "529": {
+    "Director": "Steven Zaillian",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 7266383,
+    "Runtime": 110
+  },
+  "531": {
+    "Director": "Agnieszka Holland",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 40000000,
+    "Runtime": 101
+  },
+  "532": {
+    "Director": "John Waters",
+    "Budget": 13000000,
+    "Cumulative Worldwide Gross": 7820688,
+    "Runtime": 94
+  },
+  "533": {
+    "Director": "Russell Mulcahy",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 48063465,
+    "Runtime": 108
+  },
+  "534": {
+    "Director": "Richard Attenborough",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 25842000,
+    "Runtime": 131
+  },
+  "535": {
+    "Director": "Robert Altman",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 6110979,
+    "Runtime": 188
+  },
+  "536": {
+    "Director": "Gillies MacKinnon",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 3430583,
+    "Runtime": 106
+  },
+  "537": {
+    "Director": "John Duigan",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 7770731,
+    "Runtime": 98
+  },
+  "538": {
+    "Director": "Fred Schepisi",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 6284090,
+    "Runtime": 112
+  },
+  "539": {
+    "Director": "Nora Ephron",
+    "Budget": 21000000,
+    "Cumulative Worldwide Gross": 227799884,
+    "Runtime": 105
+  },
+  "540": {
+    "Director": "Phillip Noyce",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 116300000,
+    "Runtime": 107
+  },
+  "541": {
+    "Director": "Ridley Scott",
+    "Budget": 28000000,
+    "Cumulative Worldwide Gross": 41722424,
+    "Runtime": 118
+  },
+  "542": {
+    "Director": "Steve Rash",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 36448200,
+    "Runtime": 95
+  },
+  "543": {
+    "Director": "Thomas Schlamme",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 11585483,
+    "Runtime": 93
+  },
+  "544": {
+    "Director": "Rowdy Herrington",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 102
+  },
+  "546": {
+    "Director": "Annabel Jankel, Rocky Morton",
+    "Budget": 48000000,
+    "Cumulative Worldwide Gross": 20929518,
+    "Runtime": 105
+  },
+  "547": {
+    "Director": "Ernest R. Dickerson",
+    "Budget": 7400000,
+    "Cumulative Worldwide Gross": 7690013,
+    "Runtime": 96
+  },
+  "548": {
+    "Director": "Deran Sarafian",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 16478900,
+    "Runtime": 102
+  },
+  "549": {
+    "Director": "François Girard",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 93
+  },
+  "550": {
+    "Director": "Andrew Fleming",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 14815317,
+    "Runtime": 93
+  },
+  "551": {
+    "Director": "Henry Selick",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 75634409,
+    "Runtime": 76
+  },
+  "552": {
+    "Director": "Stephen Herek",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 111898845,
+    "Runtime": 105
+  },
+  "553": {
+    "Director": "George P. Cosmatos",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 73205065,
+    "Runtime": 130
+  },
+  "555": {
+    "Director": "Tony Scott",
+    "Budget": 12500000,
+    "Cumulative Worldwide Gross": 12600000,
+    "Runtime": 121
+  },
+  "556": {
+    "Director": "Chris Hegedus, D. A. Pennebaker",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 901668,
+    "Runtime": 96
+  },
+  "558": {
+    "Director": "Pixote Hunt, Joe Johnston",
+    "Budget": 27000000,
+    "Cumulative Worldwide Gross": 13670688,
+    "Runtime": 75
+  },
+  "562": {
+    "Director": "Todd Solondz",
+    "Budget": 800000,
+    "Cumulative Worldwide Gross": 5034794,
+    "Runtime": 88
+  },
+  "563": {
+    "Director": "Claude Berri",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 160
+  },
+  "564": {
+    "Director": "Dennis Hopper",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 1596687,
+    "Runtime": 102
+  },
+  "567": {
+    "Director": "Pedro Almodóvar",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 2019069,
+    "Runtime": 117
+  },
+  "568": {
+    "Director": "Gurinder Chadha",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 100
+  },
+  "569": {
+    "Director": "Andrew Scheinman",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 119
+  },
+  "573": {
+    "Director": "Lina Wertmüller",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 93
+  },
+  "574": {
+    "Director": "David O. Russell",
+    "Budget": 200000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 106
+  },
+  "575": {
+    "Director": "Penelope Spheeris",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 67308282,
+    "Runtime": 82
+  },
+  "577": {
+    "Director": "George T. Miller",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 94
+  },
+  "579": {
+    "Director": "Ricky Tognazzi",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 96
+  },
+  "580": {
+    "Director": "Michael Austin",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 3021629,
+    "Runtime": 97
+  },
+  "581": {
+    "Director": "Rob Epstein, Jeffrey Friedman",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1400591,
+    "Runtime": 102
+  },
+  "583": {
+    "Director": "Nanni Moretti",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 173696,
+    "Runtime": 101
+  },
+  "585": {
+    "Director": "Betty Thomas",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 46576136,
+    "Runtime": 89
+  },
+  "586": {
+    "Director": "Chris Columbus",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 476684675,
+    "Runtime": 103
+  },
+  "587": {
+    "Director": "Jerry Zucker",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 505000000,
+    "Runtime": 127
+  },
+  "588": {
+    "Director": "John Musker, Ron Clements",
+    "Budget": 28000000,
+    "Cumulative Worldwide Gross": 504050219,
+    "Runtime": 91
+  },
+  "589": {
+    "Director": "James Cameron",
+    "Budget": 102000000,
+    "Cumulative Worldwide Gross": 517778573,
+    "Runtime": 137
+  },
+  "590": {
+    "Director": "Kevin Costner",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 424208848,
+    "Runtime": 181
+  },
+  "592": {
+    "Director": "Tim Burton",
+    "Budget": 35000000,
+    "Cumulative Worldwide Gross": 411348924,
+    "Runtime": 126
+  },
+  "593": {
+    "Director": "Jonathan Demme",
+    "Budget": 19000000,
+    "Cumulative Worldwide Gross": 272742922,
+    "Runtime": 119
+  },
+  "594": {
+    "Director": "David Hand, Ben Sharpsteen, William Cottrell, Larry Morey, Perce Pearce, Wilfred Jackson",
+    "Budget": 1488423,
+    "Cumulative Worldwide Gross": 184925486,
+    "Runtime": 83
+  },
+  "595": {
+    "Director": "Gary Trousdale, Kirk Wise",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 424967620,
+    "Runtime": 84
+  },
+  "596": {
+    "Director": "Hamilton Luske, Ben Sharpsteen, Jack Kinney, Bill Roberts, T. Hee, Norman Ferguson, Wilfred Jackson",
+    "Budget": 2600000,
+    "Cumulative Worldwide Gross": 164000000,
+    "Runtime": 88
+  },
+  "597": {
+    "Director": "Garry Marshall",
+    "Budget": 14000000,
+    "Cumulative Worldwide Gross": 463406268,
+    "Runtime": 120
+  },
+  "599": {
+    "Director": "Sam Peckinpah",
+    "Budget": 6244087,
+    "Cumulative Worldwide Gross": 638641,
+    "Runtime": 145
+  },
+  "600": {
+    "Director": "C.M. Talkington",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 101
+  },
+  "602": {
+    "Director": "Jean Bach",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 527034,
+    "Runtime": 60
+  },
+  "605": {
+    "Director": "Michael Hoffman",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 97529550,
+    "Runtime": 108
+  },
+  "606": {
+    "Director": "Bill Condon",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 13940383,
+    "Runtime": 95
+  },
+  "608": {
+    "Director": "Joel Coen, Ethan Coen",
+    "Budget": 7000000,
+    "Cumulative Worldwide Gross": 60611975,
+    "Runtime": 98
+  },
+  "609": {
+    "Director": "David R. Ellis",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 32709423,
+    "Runtime": 89
+  },
+  "610": {
+    "Director": "Gerald Potterton, John Bruno, John Halas, Julian Harris, Jimmy T. Murakami, Barrie Nelson, Paul Sabella, Jack Stokes, Pino Van Lamsweerde, Harold Whitaker",
+    "Budget": 9300000,
+    "Cumulative Worldwide Gross": 20118654,
+    "Runtime": 90
+  },
+  "611": {
+    "Director": "Alan Smithee, Kevin Yagher",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 16675000,
+    "Runtime": 86
+  },
+  "612": {
+    "Director": "Matt Reeves",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": 5656388,
+    "Runtime": 97
+  },
+  "613": {
+    "Director": "Franco Zeffirelli",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 5200601,
+    "Runtime": 113
+  },
+  "615": {
+    "Director": "Franco Brusati",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 115
+  },
+  "616": {
+    "Director": "Wolfgang Reitherman",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 191000000,
+    "Runtime": 78
+  },
+  "617": {
+    "Director": "Pedro Almodóvar",
+    "Budget": 4500000,
+    "Cumulative Worldwide Gross": 19000000,
+    "Runtime": 106
+  },
+  "618": {
+    "Director": "Fernando Trueba",
+    "Budget": 24000000,
+    "Cumulative Worldwide Gross": 1141556,
+    "Runtime": 118
+  },
+  "619": {
+    "Director": "Bill Couturié",
+    "Budget": 24000000,
+    "Cumulative Worldwide Gross": 4400000,
+    "Runtime": 94
+  },
+  "626": {
+    "Director": "Martin Lawrence",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": 34746109,
+    "Runtime": 108
+  },
+  "627": {
+    "Director": "Stacy Title",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 442965,
+    "Runtime": 92
+  },
+  "628": {
+    "Director": "Gregory Hoblit",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 102616183,
+    "Runtime": 130
+  },
+  "631": {
+    "Director": "Larry Leker, Paul Sabella",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 8620678,
+    "Runtime": 82
+  },
+  "632": {
+    "Director": "Ken Loach",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 109
+  },
+  "633": {
+    "Director": "Hal Salwen",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 80
+  },
+  "634": {
+    "Director": "Jonathan R. Betuel",
+    "Budget": 33500000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 92
+  },
+  "635": {
+    "Director": "Richard Pearce",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 10125417,
+    "Runtime": 109
+  },
+  "636": {
+    "Director": "Todd Verow",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 88
+  },
+  "637": {
+    "Director": "Jonathan Lynn",
+    "Budget": 39000000,
+    "Cumulative Worldwide Gross": 37956793,
+    "Runtime": 90
+  },
+  "638": {
+    "Director": "Tim Sullivan",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 218626,
+    "Runtime": 110
+  },
+  "639": {
+    "Director": "Spike Lee",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 4939939,
+    "Runtime": 108
+  },
+  "640": {
+    "Director": "Jeremiah S. Chechik",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 52400000,
+    "Runtime": 107
+  },
+  "645": {
+    "Director": "Claude Sautet",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 106
+  },
+  "647": {
+    "Director": "Edward Zwick",
+    "Budget": 46000000,
+    "Cumulative Worldwide Gross": 100900000,
+    "Runtime": 116
+  },
+  "648": {
+    "Director": "Brian De Palma",
+    "Budget": 80000000,
+    "Cumulative Worldwide Gross": 457696391,
+    "Runtime": 111
+  },
+  "649": {
+    "Director": "Fridrik Thor Fridriksson",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 85
+  },
+  "650": {
+    "Director": "Pen Densham",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 3486578,
+    "Runtime": 123
+  },
+  "653": {
+    "Director": "Rob Cohen",
+    "Budget": 57000000,
+    "Cumulative Worldwide Gross": 115267375,
+    "Runtime": 103
+  },
+  "656": {
+    "Director": "Steve Rash",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 31387164,
+    "Runtime": 100
+  },
+  "661": {
+    "Director": "Henry Selick",
+    "Budget": 38000000,
+    "Cumulative Worldwide Gross": 28946127,
+    "Runtime": 79
+  },
+  "662": {
+    "Director": "James Foley",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 97
+  },
+  "663": {
+    "Director": "Kelly Makin",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 88
+  },
+  "665": {
+    "Director": "Emir Kusturica",
+    "Budget": 14000000,
+    "Cumulative Worldwide Gross": 182134,
+    "Runtime": 170
+  },
+  "667": {
+    "Director": "Alan Mehrez",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 684351,
+    "Runtime": 90
+  },
+  "668": {
+    "Director": "Satyajit Ray",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 536364,
+    "Runtime": 125
+  },
+  "670": {
+    "Director": "Satyajit Ray",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 134241,
+    "Runtime": 105
+  },
+  "671": {
+    "Director": "Jim Mallon",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 1007306,
+    "Runtime": 73
+  },
+  "673": {
+    "Director": "Joe Pytka",
+    "Budget": 80000000,
+    "Cumulative Worldwide Gross": 250200000,
+    "Runtime": 87
+  },
+  "674": {
+    "Director": "Roger Vadim",
+    "Budget": 9000000,
+    "Cumulative Worldwide Gross": 2500000,
+    "Runtime": 98
+  },
+  "678": {
+    "Director": "George Hickenlooper",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 25
+  },
+  "679": {
+    "Director": "Peter Yates",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 109
+  },
+  "680": {
+    "Director": "Jean-Luc Godard",
+    "Budget": 220000,
+    "Cumulative Worldwide Gross": 46585,
+    "Runtime": 99
+  },
+  "685": {
+    "Director": "Randal Kleiser",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 622503,
+    "Runtime": 110
+  },
+  "688": {
+    "Director": "Simon Wincer",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 107
+  },
+  "691": {
+    "Director": "Richard Benjamin",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 10082005,
+    "Runtime": 105
+  },
+  "692": {
+    "Director": "Norberto Barba",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 94
+  },
+  "694": {
+    "Director": "Robert Mandel",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 14818176,
+    "Runtime": 114
+  },
+  "695": {
+    "Director": "Pat Verducci",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 94
+  },
+  "697": {
+    "Director": "Steven Baigelman",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 99
+  },
+  "698": {
+    "Director": "Zalman King",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 63174,
+    "Runtime": 99
+  },
+  "700": {
+    "Director": "Patrick Read Johnson",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 90
+  },
+  "703": {
+    "Director": "Stacy Cochran",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 516349,
+    "Runtime": 86
+  },
+  "704": {
+    "Director": "Jean-Claude Van Damme",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 57400547,
+    "Runtime": 95
+  },
+  "706": {
+    "Director": "Steve Gomer",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 10163782,
+    "Runtime": 99
+  },
+  "707": {
+    "Director": "Lee Tamahori",
+    "Budget": 29000000,
+    "Cumulative Worldwide Gross": 11500000,
+    "Runtime": 107
+  },
+  "708": {
+    "Director": "Michael Lehmann",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 3407,
+    "Runtime": 93
+  },
+  "709": {
+    "Director": "George Scribner",
+    "Budget": 31000000,
+    "Cumulative Worldwide Gross": 121000000,
+    "Runtime": 74
+  },
+  "710": {
+    "Director": "Tom DeCerchio",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 91
+  },
+  "711": {
+    "Director": "Alan Shapiro",
+    "Budget": 25530000,
+    "Cumulative Worldwide Gross": 20080020,
+    "Runtime": 95
+  },
+  "714": {
+    "Director": "Jim Jarmusch",
+    "Budget": 9000000,
+    "Cumulative Worldwide Gross": 1038000,
+    "Runtime": 122
+  },
+  "715": {
+    "Director": "Jean-Paul Rappeneau",
+    "Budget": 35000000,
+    "Cumulative Worldwide Gross": 15000000,
+    "Runtime": 135
+  },
+  "718": {
+    "Director": "Jean-Marie Poiré",
+    "Budget": 9500000,
+    "Cumulative Worldwide Gross": 98800000,
+    "Runtime": 107
+  },
+  "719": {
+    "Director": "Harold Ramis",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 21075014,
+    "Runtime": 117
+  },
+  "720": {
+    "Director": "Nick Park, Peter Lord, Richard Starzak, David Sproxton, Peter Peake, Luis Cook, Dave Alex Riddett",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 75
+  },
+  "722": {
+    "Director": "Brett Thompson",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 112
+  },
+  "724": {
+    "Director": "Andrew Fleming",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 24800000,
+    "Runtime": 101
+  },
+  "725": {
+    "Director": "Reginald Hudlin",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 91
+  },
+  "726": {
+    "Director": "Bruce Beresford",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 5,
+    "Runtime": 103
+  },
+  "728": {
+    "Director": "John Schlesinger",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 95
+  },
+  "731": {
+    "Director": "Phil Joanou",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 5009305,
+    "Runtime": 132
+  },
+  "733": {
+    "Director": "Michael Bay",
+    "Budget": 75000000,
+    "Cumulative Worldwide Gross": 335062621,
+    "Runtime": 137
+  },
+  "735": {
+    "Director": "Michele Soavi",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 104
+  },
+  "736": {
+    "Director": "Jan de Bont",
+    "Budget": 92000000,
+    "Cumulative Worldwide Gross": 494471524,
+    "Runtime": 113
+  },
+  "737": {
+    "Director": "David Hogan",
+    "Budget": 9000000,
+    "Cumulative Worldwide Gross": 3793614,
+    "Runtime": 98
+  },
+  "741": {
+    "Director": "Mamoru Oshii",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 10000000,
+    "Runtime": 83
+  },
+  "742": {
+    "Director": "Tom Holland",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": 15315484,
+    "Runtime": 92
+  },
+  "743": {
+    "Director": "Rick Friedberg",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 26960191,
+    "Runtime": 81
+  },
+  "745": {
+    "Director": "Nick Park",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 4638,
+    "Runtime": 30
+  },
+  "747": {
+    "Director": "John Landis",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 2491989,
+    "Runtime": 94
+  },
+  "748": {
+    "Director": "David Twohy",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 14063331,
+    "Runtime": 115
+  },
+  "750": {
+    "Director": "Stanley Kubrick",
+    "Budget": 1800000,
+    "Cumulative Worldwide Gross": 9500000,
+    "Runtime": 95
+  },
+  "757": {
+    "Director": "Wong Kar-Wai",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 100
+  },
+  "759": {
+    "Director": "Freida Lee Mock",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 83
+  },
+  "760": {
+    "Director": "Joseph Vilsmaier",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 152972,
+    "Runtime": 134
+  },
+  "761": {
+    "Director": "Simon Wincer",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 17323326,
+    "Runtime": 100
+  },
+  "762": {
+    "Director": "Andrew Bergman",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 113309743,
+    "Runtime": 115
+  },
+  "764": {
+    "Director": "James Mangold",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 105
+  },
+  "765": {
+    "Director": "Francis Ford Coppola",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 58620973,
+    "Runtime": 113
+  },
+  "766": {
+    "Director": "Mary Harron",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1814290,
+    "Runtime": 103
+  },
+  "773": {
+    "Director": "Djibril Diop Mambéty",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 91
+  },
+  "775": {
+    "Director": "Federico Fellini, Louis Malle, Roger Vadim",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 122
+  },
+  "778": {
+    "Director": "Danny Boyle",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 71981823,
+    "Runtime": 94
+  },
+  "779": {
+    "Director": "Scott Winant",
+    "Budget": 1000000,
+    "Cumulative Worldwide Gross": 3525125,
+    "Runtime": 113
+  },
+  "780": {
+    "Director": "Roland Emmerich",
+    "Budget": 75000000,
+    "Cumulative Worldwide Gross": 817400891,
+    "Runtime": 145
+  },
+  "781": {
+    "Director": "Bernardo Bertolucci",
+    "Budget": 10000000,
+    "Cumulative Worldwide Gross": 4800000,
+    "Runtime": 116
+  },
+  "782": {
+    "Director": "Tony Scott",
+    "Budget": 55000000,
+    "Cumulative Worldwide Gross": 18626419,
+    "Runtime": 116
+  },
+  "783": {
+    "Director": "Gary Trousdale, Kirk Wise",
+    "Budget": 100000000,
+    "Cumulative Worldwide Gross": 325300000,
+    "Runtime": 91
+  },
+  "784": {
+    "Director": "Ben Stiller",
+    "Budget": 47000000,
+    "Cumulative Worldwide Gross": 102825796,
+    "Runtime": 96
+  },
+  "785": {
+    "Director": "Bobby Farrelly, Peter Farrelly",
+    "Budget": 27000000,
+    "Cumulative Worldwide Gross": 25023434,
+    "Runtime": 114
+  },
+  "786": {
+    "Director": "Chuck Russell",
+    "Budget": 100000000,
+    "Cumulative Worldwide Gross": 242295562,
+    "Runtime": 115
+  },
+  "788": {
+    "Director": "Tom Shadyac",
+    "Budget": 54000000,
+    "Cumulative Worldwide Gross": 128769345,
+    "Runtime": 95
+  },
+  "790": {
+    "Director": "Lucian Pintilie",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 65352,
+    "Runtime": 82
+  },
+  "791": {
+    "Director": null,
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": null
+  },
+  "795": {
+    "Director": "Alexandre Rockwell",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 102
+  },
+  "798": {
+    "Director": "Rob Cohen",
+    "Budget": 80000000,
+    "Cumulative Worldwide Gross": 159212469,
+    "Runtime": 115
+  },
+  "799": {
+    "Director": "Peter Jackson",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 29359216,
+    "Runtime": 110
+  },
+  "800": {
+    "Director": "John Sayles",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 13269963,
+    "Runtime": 135
+  },
+  "801": {
+    "Director": "Bronwen Hughes",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 26600000,
+    "Runtime": 101
+  },
+  "802": {
+    "Director": "Jon Turteltaub",
+    "Budget": 32000000,
+    "Cumulative Worldwide Gross": 152000000,
+    "Runtime": 123
+  },
+  "803": {
+    "Director": "Nicole Holofcener",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 86
+  },
+  "804": {
+    "Director": "Edward Burns",
+    "Budget": 3500000,
+    "Cumulative Worldwide Gross": 9500000,
+    "Runtime": 96
+  },
+  "805": {
+    "Director": "Joel Schumacher",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 152266007,
+    "Runtime": 149
+  },
+  "806": {
+    "Director": "Michael Corrente",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 665450,
+    "Runtime": 88
+  },
+  "808": {
+    "Director": "Fraser Clarke Heston",
+    "Budget": 23000000,
+    "Cumulative Worldwide Gross": 11829959,
+    "Runtime": 109
+  },
+  "809": {
+    "Director": "Kevin Hooks",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 17193231,
+    "Runtime": 98
+  },
+  "810": {
+    "Director": "Paul Michael Glaser",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 18937262,
+    "Runtime": 94
+  },
+  "813": {
+    "Director": "Howard Franklin",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 8315693,
+    "Runtime": 93
+  },
+  "818": {
+    "Director": "Arlene Sanford",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 21440752,
+    "Runtime": 90
+  },
+  "823": {
+    "Director": "Éric Rohmer",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 86
+  },
+  "824": {
+    "Director": "Peter Sehr, Gernot Roll",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 139
+  },
+  "828": {
+    "Director": "Steve Barron",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 15100000,
+    "Runtime": 95
+  },
+  "829": {
+    "Director": "John Payson",
+    "Budget": 13000000,
+    "Cumulative Worldwide Gross": 4600000,
+    "Runtime": 81
+  },
+  "830": {
+    "Director": "Hugh Wilson",
+    "Budget": 26000000,
+    "Cumulative Worldwide Gross": 116400000,
+    "Runtime": 102
+  },
+  "832": {
+    "Director": "Ron Howard",
+    "Budget": 80000000,
+    "Cumulative Worldwide Gross": 309492681,
+    "Runtime": 121
+  },
+  "833": {
+    "Director": "Hart Bochner",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 21302121,
+    "Runtime": 86
+  },
+  "835": {
+    "Director": "Annette Haywood-Carter",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 258263,
+    "Runtime": 102
+  },
+  "836": {
+    "Director": "Andrew Davis",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 60209334,
+    "Runtime": 107
+  },
+  "837": {
+    "Director": "Danny DeVito",
+    "Budget": 36000000,
+    "Cumulative Worldwide Gross": 33500000,
+    "Runtime": 98
+  },
+  "838": {
+    "Director": "Douglas McGrath",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 22231658,
+    "Runtime": 121
+  },
+  "839": {
+    "Director": "Tim Pope",
+    "Budget": 13000000,
+    "Cumulative Worldwide Gross": 25317287,
+    "Runtime": 84
+  },
+  "840": {
+    "Director": "Harry Winer",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 109
+  },
+  "841": {
+    "Director": "Georges Franju",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 58656,
+    "Runtime": 84
+  },
+  "842": {
+    "Director": "Gilbert Adler",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 5600000,
+    "Runtime": 87
+  },
+  "848": {
+    "Director": "Lee David Zlotoff",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 12643776,
+    "Runtime": 117
+  },
+  "849": {
+    "Director": "John Carpenter",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 42277365,
+    "Runtime": 101
+  },
+  "851": {
+    "Director": "Julian Schnabel",
+    "Budget": 3300000,
+    "Cumulative Worldwide Gross": 3022292,
+    "Runtime": 107
+  },
+  "852": {
+    "Director": "Ron Shelton",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 53854588,
+    "Runtime": 135
+  },
+  "858": {
+    "Director": "Francis Ford Coppola",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 245066411,
+    "Runtime": 175
+  },
+  "861": {
+    "Director": "Stanley Tong Gwai-Lai",
+    "Budget": 900000,
+    "Cumulative Worldwide Gross": 34391494,
+    "Runtime": 95
+  },
+  "866": {
+    "Director": "Lana Wachowski, Lilly Wachowski",
+    "Budget": 4500000,
+    "Cumulative Worldwide Gross": 7011317,
+    "Runtime": 105
+  },
+  "867": {
+    "Director": "Arthur Hiller",
+    "Budget": 17000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 89
+  },
+  "869": {
+    "Director": "Robert Altman",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 116
+  },
+  "870": {
+    "Director": "Christopher Cain",
+    "Budget": 53000000,
+    "Cumulative Worldwide Gross": 19745922,
+    "Runtime": 94
+  },
+  "875": {
+    "Director": "Izidore K. Musallam",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 83
+  },
+  "876": {
+    "Director": "Stanley Tong Gwai-Lai",
+    "Budget": 1000000,
+    "Cumulative Worldwide Gross": 1207130,
+    "Runtime": 101
+  },
+  "879": {
+    "Director": "Peter Hyams",
+    "Budget": 60000000,
+    "Cumulative Worldwide Gross": 33956608,
+    "Runtime": 110
+  },
+  "880": {
+    "Director": "John Frankenheimer",
+    "Budget": 40000000,
+    "Cumulative Worldwide Gross": 49627779,
+    "Runtime": 96
+  },
+  "881": {
+    "Director": "David Mickey Evans",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 101
+  },
+  "882": {
+    "Director": "David Koepp",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": 3600000,
+    "Runtime": 94
+  },
+  "885": {
+    "Director": "Norman Jewison",
+    "Budget": 32000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 110
+  },
+  "886": {
+    "Director": "Ernest R. Dickerson",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 22611954,
+    "Runtime": 84
+  },
+  "888": {
+    "Director": "Roy Allen Smith",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 70
+  },
+  "889": {
+    "Director": "Theo van Gogh",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 87
+  },
+  "891": {
+    "Director": "Joe Chappelle",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 15116634,
+    "Runtime": 88
+  },
+  "892": {
+    "Director": "Trevor Nunn",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 33000000,
+    "Runtime": 134
+  },
+  "893": {
+    "Director": "Keith Gordon",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 114
+  },
+  "896": {
+    "Director": "André Téchiné",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 807775,
+    "Runtime": 115
+  },
+  "897": {
+    "Director": "Sam Wood",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 17800000,
+    "Runtime": 170
+  },
+  "898": {
+    "Director": "George Cukor",
+    "Budget": 914000,
+    "Cumulative Worldwide Gross": 3300000,
+    "Runtime": 113
+  },
+  "899": {
+    "Director": "Gene Kelly, Stanley Donen",
+    "Budget": 2540800,
+    "Cumulative Worldwide Gross": 7200000,
+    "Runtime": 103
+  },
+  "900": {
+    "Director": "Vincente Minnelli",
+    "Budget": 5635000,
+    "Cumulative Worldwide Gross": 6981000,
+    "Runtime": 113
+  },
+  "901": {
+    "Director": "Stanley Donen",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 103
+  },
+  "902": {
+    "Director": "Blake Edwards",
+    "Budget": 2500000,
+    "Cumulative Worldwide Gross": 9500000,
+    "Runtime": 115
+  },
+  "903": {
+    "Director": "Alfred Hitchcock",
+    "Budget": 2479000,
+    "Cumulative Worldwide Gross": 7808900,
+    "Runtime": 128
+  },
+  "904": {
+    "Director": "Alfred Hitchcock",
+    "Budget": 1000000,
+    "Cumulative Worldwide Gross": 37042336,
+    "Runtime": 113
+  },
+  "905": {
+    "Director": "Frank Capra",
+    "Budget": 325000,
+    "Cumulative Worldwide Gross": 4500000,
+    "Runtime": 105
+  },
+  "906": {
+    "Director": "George Cukor",
+    "Budget": 2068000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 114
+  },
+  "907": {
+    "Director": "Mark Sandrich",
+    "Budget": 520000,
+    "Cumulative Worldwide Gross": 1800000,
+    "Runtime": 105
+  },
+  "908": {
+    "Director": "Alfred Hitchcock",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 13275000,
+    "Runtime": 137
+  },
+  "909": {
+    "Director": "Billy Wilder",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 25000000,
+    "Runtime": 126
+  },
+  "910": {
+    "Director": "Billy Wilder",
+    "Budget": 2900000,
+    "Cumulative Worldwide Gross": 25000000,
+    "Runtime": 123
+  },
+  "911": {
+    "Director": "Stanley Donen",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 13475000,
+    "Runtime": 113
+  },
+  "912": {
+    "Director": "Michael Curtiz",
+    "Budget": 878000,
+    "Cumulative Worldwide Gross": 10462500,
+    "Runtime": 102
+  },
+  "913": {
+    "Director": "John Huston",
+    "Budget": 375000,
+    "Cumulative Worldwide Gross": 1772000,
+    "Runtime": 100
+  },
+  "914": {
+    "Director": "George Cukor",
+    "Budget": 17000000,
+    "Cumulative Worldwide Gross": 72661442,
+    "Runtime": 170
+  },
+  "915": {
+    "Director": "Billy Wilder",
+    "Budget": 2239000,
+    "Cumulative Worldwide Gross": 10000000,
+    "Runtime": 114
+  },
+  "916": {
+    "Director": "William Wyler",
+    "Budget": 1500000,
+    "Cumulative Worldwide Gross": 12000000,
+    "Runtime": 119
+  },
+  "917": {
+    "Director": "Walter Lang",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 93
+  },
+  "918": {
+    "Director": "Vincente Minnelli",
+    "Budget": 1707561,
+    "Cumulative Worldwide Gross": 7566000,
+    "Runtime": 114
+  },
+  "919": {
+    "Director": "Victor Fleming",
+    "Budget": 2777000,
+    "Cumulative Worldwide Gross": 33754967,
+    "Runtime": 102
+  },
+  "920": {
+    "Director": "Victor Fleming",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 402352579,
+    "Runtime": 233
+  },
+  "921": {
+    "Director": "Richard Benjamin",
+    "Budget": 7900000,
+    "Cumulative Worldwide Gross": 20123620,
+    "Runtime": 92
+  },
+  "922": {
+    "Director": "Billy Wilder",
+    "Budget": 1752000,
+    "Cumulative Worldwide Gross": 5000000,
+    "Runtime": 110
+  },
+  "923": {
+    "Director": "Orson Welles",
+    "Budget": 839727,
+    "Cumulative Worldwide Gross": 23218000,
+    "Runtime": 119
+  },
+  "924": {
+    "Director": "Stanley Kubrick",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 71923560,
+    "Runtime": 149
+  },
+  "926": {
+    "Director": "Joseph L. Mankiewicz",
+    "Budget": 1400000,
+    "Cumulative Worldwide Gross": 8402553,
+    "Runtime": 139
+  },
+  "927": {
+    "Director": "George Cukor",
+    "Budget": 1688000,
+    "Cumulative Worldwide Gross": 2270000,
+    "Runtime": 133
+  },
+  "928": {
+    "Director": "Alfred Hitchcock",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 130
+  },
+  "929": {
+    "Director": "Alfred Hitchcock",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 120
+  },
+  "930": {
+    "Director": "Alfred Hitchcock",
+    "Budget": 2000000,
+    "Cumulative Worldwide Gross": 24500000,
+    "Runtime": 103
+  },
+  "931": {
+    "Director": "Alfred Hitchcock",
+    "Budget": 1500000,
+    "Cumulative Worldwide Gross": 7000000,
+    "Runtime": 111
+  },
+  "932": {
+    "Director": "Leo McCarey",
+    "Budget": 2100000,
+    "Cumulative Worldwide Gross": 3800000,
+    "Runtime": 111
+  },
+  "933": {
+    "Director": "Alfred Hitchcock",
+    "Budget": 2500000,
+    "Cumulative Worldwide Gross": 8750000,
+    "Runtime": 106
+  },
+  "934": {
+    "Director": "Vincente Minnelli",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 92
+  },
+  "935": {
+    "Director": "Vincente Minnelli",
+    "Budget": 2900000,
+    "Cumulative Worldwide Gross": 3500000,
+    "Runtime": 112
+  },
+  "936": {
+    "Director": "Ernst Lubitsch",
+    "Budget": 1365000,
+    "Cumulative Worldwide Gross": 2279000,
+    "Runtime": 110
+  },
+  "937": {
+    "Director": "Billy Wilder",
+    "Budget": 2100000,
+    "Cumulative Worldwide Gross": 2000000,
+    "Runtime": 130
+  },
+  "938": {
+    "Director": "Vincente Minnelli",
+    "Budget": 3319355,
+    "Cumulative Worldwide Gross": 13200000,
+    "Runtime": 115
+  },
+  "940": {
+    "Director": "Michael Curtiz, William Keighley",
+    "Budget": 2033000,
+    "Cumulative Worldwide Gross": 3981000,
+    "Runtime": 102
+  },
+  "941": {
+    "Director": "Rouben Mamoulian",
+    "Budget": 1000000,
+    "Cumulative Worldwide Gross": 4000000,
+    "Runtime": 94
+  },
+  "942": {
+    "Director": "Otto Preminger",
+    "Budget": 1020000,
+    "Cumulative Worldwide Gross": 2000000,
+    "Runtime": 88
+  },
+  "943": {
+    "Director": "Joseph L. Mankiewicz",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 105
+  },
+  "944": {
+    "Director": "Frank Capra",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 132
+  },
+  "945": {
+    "Director": "Mark Sandrich",
+    "Budget": 609000,
+    "Cumulative Worldwide Gross": 3202000,
+    "Runtime": 99
+  },
+  "946": {
+    "Director": "Ernst Lubitsch",
+    "Budget": 1200000,
+    "Cumulative Worldwide Gross": 1500000,
+    "Runtime": 99
+  },
+  "947": {
+    "Director": "Gregory La Cava",
+    "Budget": 575375,
+    "Cumulative Worldwide Gross": 684200,
+    "Runtime": 95
+  },
+  "948": {
+    "Director": "George Stevens",
+    "Budget": 5400000,
+    "Cumulative Worldwide Gross": 32855818,
+    "Runtime": 201
+  },
+  "949": {
+    "Director": "Elia Kazan",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 5000000,
+    "Runtime": 115
+  },
+  "950": {
+    "Director": "W.S. Van Dyke",
+    "Budget": 226408,
+    "Cumulative Worldwide Gross": 1423000,
+    "Runtime": 91
+  },
+  "951": {
+    "Director": "Howard Hawks",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 92
+  },
+  "952": {
+    "Director": "Michael Anderson",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 42000000,
+    "Runtime": 182
+  },
+  "953": {
+    "Director": "Frank Capra",
+    "Budget": 3180000,
+    "Cumulative Worldwide Gross": 9644124,
+    "Runtime": 131
+  },
+  "954": {
+    "Director": "Frank Capra",
+    "Budget": 1500000,
+    "Cumulative Worldwide Gross": 9600000,
+    "Runtime": 130
+  },
+  "955": {
+    "Director": "Howard Hawks",
+    "Budget": 1073000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 102
+  },
+  "956": {
+    "Director": "George Stevens",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 120
+  },
+  "959": {
+    "Director": "John Cromwell",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 83
+  },
+  "961": {
+    "Director": "John Cromwell",
+    "Budget": 590000,
+    "Cumulative Worldwide Gross": 1037000,
+    "Runtime": 102
+  },
+  "963": {
+    "Director": "Henry Koster",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 101
+  },
+  "965": {
+    "Director": "Alfred Hitchcock",
+    "Budget": 75000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 86
+  },
+  "968": {
+    "Director": "George A. Romero",
+    "Budget": 114000,
+    "Cumulative Worldwide Gross": 30236452,
+    "Runtime": 96
+  },
+  "969": {
+    "Director": "John Huston",
+    "Budget": 1000000,
+    "Cumulative Worldwide Gross": 10750000,
+    "Runtime": 105
+  },
+  "970": {
+    "Director": "John Huston",
+    "Budget": 1000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 95
+  },
+  "971": {
+    "Director": "Richard Brooks",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 17570324,
+    "Runtime": 108
+  },
+  "973": {
+    "Director": "Frank Capra",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 2000000,
+    "Runtime": 123
+  },
+  "976": {
+    "Director": "Frank Borzage",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 89
+  },
+  "979": {
+    "Director": "Thaddeus O'Sullivan",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 83
+  },
+  "981": {
+    "Director": "Darrell James Roodt",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 3028094,
+    "Runtime": 95
+  },
+  "982": {
+    "Director": "Joshua Logan",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 9000000,
+    "Runtime": 114
+  },
+  "984": {
+    "Director": "Richard Schenkman",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 99
+  },
+  "986": {
+    "Director": "Carroll Ballard",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 25143818,
+    "Runtime": 107
+  },
+  "987": {
+    "Director": "Lance Young",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 294064,
+    "Runtime": 103
+  },
+  "988": {
+    "Director": "Allison Anders",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 660313,
+    "Runtime": 116
+  },
+  "990": {
+    "Director": "Ringo Lam Ling-Tung",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 51702483,
+    "Runtime": 100
+  },
+  "991": {
+    "Director": "Neil Jordan",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 16900000,
+    "Runtime": 132
+  },
+  "993": {
+    "Director": "Matthew Broderick",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 195170,
+    "Runtime": 119
+  },
+  "994": {
+    "Director": "Stanley Tucci, Campbell Scott",
+    "Budget": 4100000,
+    "Cumulative Worldwide Gross": 12000000,
+    "Runtime": 109
+  },
+  "996": {
+    "Director": "Walter Hill",
+    "Budget": 67000000,
+    "Cumulative Worldwide Gross": 47267001,
+    "Runtime": 101
+  },
+  "998": {
+    "Director": "F. Gary Gray",
+    "Budget": 9000000,
+    "Cumulative Worldwide Gross": 41590886,
+    "Runtime": 123
+  },
+  "999": {
+    "Director": "John Herzfeld",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 11132156,
+    "Runtime": 104
+  },
+  "1003": {
+    "Director": "Michael Apted",
+    "Budget": 38000000,
+    "Cumulative Worldwide Gross": 17380126,
+    "Runtime": 118
+  },
+  "1004": {
+    "Director": "John Gray",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 20350000,
+    "Runtime": 92
+  },
+  "1005": {
+    "Director": "Rob Lieberman",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 22955097,
+    "Runtime": 104
+  },
+  "1006": {
+    "Director": "James Foley",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 22540359,
+    "Runtime": 113
+  },
+  "1007": {
+    "Director": "Norman Tokar",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 36853000,
+    "Runtime": 100
+  },
+  "1008": {
+    "Director": "Norman Foster",
+    "Budget": 2150000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 93
+  },
+  "1009": {
+    "Director": "John Hough",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 20000000,
+    "Runtime": 97
+  },
+  "1010": {
+    "Director": "Robert Stevenson",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 51264022,
+    "Runtime": 108
+  },
+  "1011": {
+    "Director": "Robert Stevenson",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 38229000,
+    "Runtime": 88
+  },
+  "1012": {
+    "Director": "Robert Stevenson",
+    "Budget": 21909000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 84
+  },
+  "1013": {
+    "Director": "David Swift",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 29650385,
+    "Runtime": 129
+  },
+  "1014": {
+    "Director": "David Swift",
+    "Budget": 2500000,
+    "Cumulative Worldwide Gross": 3750000,
+    "Runtime": 134
+  },
+  "1015": {
+    "Director": "Duwayne Dunham",
+    "Budget": 24000000,
+    "Cumulative Worldwide Gross": 57333324,
+    "Runtime": 84
+  },
+  "1016": {
+    "Director": "Charles Barton",
+    "Budget": 1250000,
+    "Cumulative Worldwide Gross": 17658000,
+    "Runtime": 104
+  },
+  "1017": {
+    "Director": "Ken Annakin",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 40356000,
+    "Runtime": 126
+  },
+  "1018": {
+    "Director": "Robert Stevenson",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 28062222,
+    "Runtime": 116
+  },
+  "1019": {
+    "Director": "Richard Fleischer",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 28200000,
+    "Runtime": 127
+  },
+  "1020": {
+    "Director": "Jon Turteltaub",
+    "Budget": 14000000,
+    "Cumulative Worldwide Gross": 154856263,
+    "Runtime": 98
+  },
+  "1021": {
+    "Director": "William Dear",
+    "Budget": 31000000,
+    "Cumulative Worldwide Gross": 50236831,
+    "Runtime": 103
+  },
+  "1022": {
+    "Director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+    "Budget": 2900000,
+    "Cumulative Worldwide Gross": 263600000,
+    "Runtime": 74
+  },
+  "1023": {
+    "Director": "Wolfgang Reitherman",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 25
+  },
+  "1024": {
+    "Director": "Norman Ferguson, Bill Roberts, Clyde Geronimi, Jack Kinney, Harold Young",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 6710000,
+    "Runtime": 71
+  },
+  "1025": {
+    "Director": "Wolfgang Reitherman",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 22200000,
+    "Runtime": 79
+  },
+  "1027": {
+    "Director": "Kevin Reynolds",
+    "Budget": 48000000,
+    "Cumulative Worldwide Gross": 390493908,
+    "Runtime": 143
+  },
+  "1028": {
+    "Director": "Robert Stevenson",
+    "Budget": 4650000,
+    "Cumulative Worldwide Gross": 103100000,
+    "Runtime": 139
+  },
+  "1029": {
+    "Director": "Ben Sharpsteen, Jack Kinney, Bill Roberts, Wilfred Jackson, Samuel Armstrong, Norman Ferguson",
+    "Budget": 812000,
+    "Cumulative Worldwide Gross": 1600000,
+    "Runtime": 64
+  },
+  "1030": {
+    "Director": "Don Chaffey",
+    "Budget": 10000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 128
+  },
+  "1031": {
+    "Director": "Robert Stevenson",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 17900000,
+    "Runtime": 117
+  },
+  "1032": {
+    "Director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 57200000,
+    "Runtime": 75
+  },
+  "1033": {
+    "Director": "Richard Rich, Art Stevens, Ted Berman",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 29800000,
+    "Runtime": 82
+  },
+  "1034": {
+    "Director": "Matthew Bright",
+    "Budget": 3100000,
+    "Cumulative Worldwide Gross": 295493,
+    "Runtime": 104
+  },
+  "1035": {
+    "Director": "Robert Wise",
+    "Budget": 8200000,
+    "Cumulative Worldwide Gross": 286214286,
+    "Runtime": 174
+  },
+  "1036": {
+    "Director": "John McTiernan",
+    "Budget": 28000000,
+    "Cumulative Worldwide Gross": 140767956,
+    "Runtime": 132
+  },
+  "1037": {
+    "Director": "Brett Leonard",
+    "Budget": 10000000,
+    "Cumulative Worldwide Gross": 32100816,
+    "Runtime": 108
+  },
+  "1040": {
+    "Director": "Christopher Hampton",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 95
+  },
+  "1041": {
+    "Director": "Mike Leigh",
+    "Budget": 4500000,
+    "Cumulative Worldwide Gross": 13417292,
+    "Runtime": 142
+  },
+  "1042": {
+    "Director": "Tom Hanks",
+    "Budget": 26000000,
+    "Cumulative Worldwide Gross": 34585416,
+    "Runtime": 108
+  },
+  "1043": {
+    "Director": "Michael Pressman",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 4137645,
+    "Runtime": 93
+  },
+  "1046": {
+    "Director": "Hettie Macdonald",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1500000,
+    "Runtime": 92
+  },
+  "1047": {
+    "Director": "Renny Harlin",
+    "Budget": 65000000,
+    "Cumulative Worldwide Gross": 89456761,
+    "Runtime": 121
+  },
+  "1049": {
+    "Director": "Stephen Hopkins",
+    "Budget": 50000000,
+    "Cumulative Worldwide Gross": 38619405,
+    "Runtime": 109
+  },
+  "1050": {
+    "Director": "Al Pacino",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1408575,
+    "Runtime": 112
+  },
+  "1051": {
+    "Director": "Steve Buscemi",
+    "Budget": 1300000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 95
+  },
+  "1053": {
+    "Director": "John McNaughton",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 101
+  },
+  "1054": {
+    "Director": "Spike Lee",
+    "Budget": 2400000,
+    "Cumulative Worldwide Gross": 5691854,
+    "Runtime": 122
+  },
+  "1055": {
+    "Director": "George P. Cosmatos",
+    "Budget": 45000000,
+    "Cumulative Worldwide Gross": 2154540,
+    "Runtime": 103
+  },
+  "1056": {
+    "Director": "Michael Winterbottom",
+    "Budget": 7000000,
+    "Cumulative Worldwide Gross": 409144,
+    "Runtime": 123
+  },
+  "1057": {
+    "Director": "Woody Allen",
+    "Budget": 20000000,
+    "Cumulative Worldwide Gross": 9759200,
+    "Runtime": 101
+  },
+  "1059": {
+    "Director": "Baz Luhrmann",
+    "Budget": 14500000,
+    "Cumulative Worldwide Gross": 147298761,
+    "Runtime": 120
+  },
+  "1060": {
+    "Director": "Doug Liman",
+    "Budget": 200000,
+    "Cumulative Worldwide Gross": 4505922,
+    "Runtime": 96
+  },
+  "1061": {
+    "Director": "Barry Levinson",
+    "Budget": 44000000,
+    "Cumulative Worldwide Gross": 165600000,
+    "Runtime": 147
+  },
+  "1064": {
+    "Director": "Tad Stones",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 81
+  },
+  "1066": {
+    "Director": "Mark Sandrich",
+    "Budget": 991000,
+    "Cumulative Worldwide Gross": 2168000,
+    "Runtime": 109
+  },
+  "1068": {
+    "Director": "Edward Dmytryk",
+    "Budget": 250000,
+    "Cumulative Worldwide Gross": 1300000,
+    "Runtime": 86
+  },
+  "1073": {
+    "Director": "Mel Stuart",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 4000000,
+    "Runtime": 100
+  },
+  "1076": {
+    "Director": "Jack Clayton",
+    "Budget": 430000,
+    "Cumulative Worldwide Gross": 1200000,
+    "Runtime": 100
+  },
+  "1077": {
+    "Director": "Woody Allen",
+    "Budget": 2000000,
+    "Cumulative Worldwide Gross": 18344729,
+    "Runtime": 87
+  },
+  "1078": {
+    "Director": "Woody Allen",
+    "Budget": 2000000,
+    "Cumulative Worldwide Gross": 11833696,
+    "Runtime": 82
+  },
+  "1079": {
+    "Director": "Charles Crichton",
+    "Budget": 7500000,
+    "Cumulative Worldwide Gross": 188593712,
+    "Runtime": 109
+  },
+  "1080": {
+    "Director": "Terry Jones",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 20833252,
+    "Runtime": 94
+  },
+  "1081": {
+    "Director": "Blake Edwards",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 28215453,
+    "Runtime": 134
+  },
+  "1082": {
+    "Director": "Michael Ritchie",
+    "Budget": 1600000,
+    "Cumulative Worldwide Gross": 2500000,
+    "Runtime": 110
+  },
+  "1083": {
+    "Director": "Blake Edwards",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 25300000,
+    "Runtime": 160
+  },
+  "1084": {
+    "Director": "Arthur Penn",
+    "Budget": 2500000,
+    "Cumulative Worldwide Gross": 70000000,
+    "Runtime": 111
+  },
+  "1085": {
+    "Director": "John Sturges",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 86
+  },
+  "1086": {
+    "Director": "Alfred Hitchcock",
+    "Budget": 1400000,
+    "Cumulative Worldwide Gross": 3000000,
+    "Runtime": 105
+  },
+  "1088": {
+    "Director": "Emile Ardolino",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 214577242,
+    "Runtime": 100
+  },
+  "1089": {
+    "Director": "Quentin Tarantino",
+    "Budget": 1200000,
+    "Cumulative Worldwide Gross": 2859750,
+    "Runtime": 99
+  },
+  "1090": {
+    "Director": "Oliver Stone",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 138530565,
+    "Runtime": 120
+  },
+  "1091": {
+    "Director": "Ted Kotcheff",
+    "Budget": 6500000,
+    "Cumulative Worldwide Gross": 30218387,
+    "Runtime": 98
+  },
+  "1092": {
+    "Director": "Paul Verhoeven",
+    "Budget": 49000000,
+    "Cumulative Worldwide Gross": 352927224,
+    "Runtime": 128
+  },
+  "1093": {
+    "Director": "Oliver Stone",
+    "Budget": 38000000,
+    "Cumulative Worldwide Gross": 34416893,
+    "Runtime": 140
+  },
+  "1094": {
+    "Director": "Neil Jordan",
+    "Budget": 3705538,
+    "Cumulative Worldwide Gross": 62548947,
+    "Runtime": 112
+  },
+  "1095": {
+    "Director": "James Foley",
+    "Budget": 12500000,
+    "Cumulative Worldwide Gross": 10725228,
+    "Runtime": 100
+  },
+  "1096": {
+    "Director": "Alan J. Pakula",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 30036166,
+    "Runtime": 151
+  },
+  "1097": {
+    "Director": "Steven Spielberg",
+    "Budget": 10500000,
+    "Cumulative Worldwide Gross": 797307407,
+    "Runtime": 115
+  },
+  "1099": {
+    "Director": "Edwin L. Marin",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 69
+  },
+  "1100": {
+    "Director": "Tony Scott",
+    "Budget": 60000000,
+    "Cumulative Worldwide Gross": 157920733,
+    "Runtime": 107
+  },
+  "1101": {
+    "Director": "Tony Scott",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 356830601,
+    "Runtime": 110
+  },
+  "1103": {
+    "Director": "Nicholas Ray",
+    "Budget": 1500000,
+    "Cumulative Worldwide Gross": 4500000,
+    "Runtime": 111
+  },
+  "1104": {
+    "Director": "Elia Kazan",
+    "Budget": 1800000,
+    "Cumulative Worldwide Gross": 8000000,
+    "Runtime": 125
+  },
+  "1105": {
+    "Director": "Greg Spence",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 85
+  },
+  "1107": {
+    "Director": null,
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": null
+  },
+  "1111": {
+    "Director": "Claude Nuridsany, Marie Pérennou",
+    "Budget": 5750000,
+    "Cumulative Worldwide Gross": 1433008,
+    "Runtime": 80
+  },
+  "1112": {
+    "Director": "Alan Taylor",
+    "Budget": 315230,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 92
+  },
+  "1114": {
+    "Director": "Abel Ferrara",
+    "Budget": 12500000,
+    "Cumulative Worldwide Gross": 1227324,
+    "Runtime": 99
+  },
+  "1116": {
+    "Director": "Benoît Jacquot",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 90
+  },
+  "1117": {
+    "Director": "Jaco Van Dormael",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 118
+  },
+  "1119": {
+    "Director": "Peter Cohn",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 90
+  },
+  "1120": {
+    "Director": "Miloš Forman",
+    "Budget": 36000000,
+    "Cumulative Worldwide Gross": 20300385,
+    "Runtime": 130
+  },
+  "1121": {
+    "Director": "Rich Wilkes",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 100
+  },
+  "1123": {
+    "Director": "David Van Taylor, R. J. Cutler",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 105
+  },
+  "1124": {
+    "Director": "Mark Rydell",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 119285432,
+    "Runtime": 109
+  },
+  "1125": {
+    "Director": "Blake Edwards",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 41833347,
+    "Runtime": 113
+  },
+  "1126": {
+    "Director": "Ate de Jong",
+    "Budget": 6788000,
+    "Cumulative Worldwide Gross": 13878334,
+    "Runtime": 99
+  },
+  "1127": {
+    "Director": "James Cameron",
+    "Budget": 43000000,
+    "Cumulative Worldwide Gross": 90000098,
+    "Runtime": 140
+  },
+  "1128": {
+    "Director": "John Carpenter",
+    "Budget": 1000000,
+    "Cumulative Worldwide Gross": 21448830,
+    "Runtime": 90
+  },
+  "1129": {
+    "Director": "John Carpenter",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 50244700,
+    "Runtime": 99
+  },
+  "1130": {
+    "Director": "Joe Dante",
+    "Budget": 1000000,
+    "Cumulative Worldwide Gross": 17985893,
+    "Runtime": 91
+  },
+  "1131": {
+    "Director": "Claude Berri",
+    "Budget": 4940939,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 122
+  },
+  "1132": {
+    "Director": "Claude Berri",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 115
+  },
+  "1135": {
+    "Director": "Howard Zieff",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 69800000,
+    "Runtime": 110
+  },
+  "1136": {
+    "Director": "Terry Jones, Terry Gilliam",
+    "Budget": 400000,
+    "Cumulative Worldwide Gross": 5763644,
+    "Runtime": 91
+  },
+  "1137": {
+    "Director": "Bruce LaBruce, Rick Castro",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 127251,
+    "Runtime": 80
+  },
+  "1140": {
+    "Director": "Michael Ray Rhodes",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 711872,
+    "Runtime": 112
+  },
+  "1144": {
+    "Director": "Susan W. Dryfoos",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 86
+  },
+  "1147": {
+    "Director": "Leon Gast",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 2789985,
+    "Runtime": 89
+  },
+  "1148": {
+    "Director": "Nick Park",
+    "Budget": 832000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 30
+  },
+  "1150": {
+    "Director": "Daniel Vigne",
+    "Budget": 3704433,
+    "Cumulative Worldwide Gross": 3723036,
+    "Runtime": 107
+  },
+  "1151": {
+    "Director": "Jan Švankmajer",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 97
+  },
+  "1156": {
+    "Director": "Vittorio De Sica",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 84
+  },
+  "1161": {
+    "Director": "Volker Schlöndorff",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 17000000,
+    "Runtime": 162
+  },
+  "1162": {
+    "Director": "Peter Medak",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 154
+  },
+  "1163": {
+    "Director": "Martine Dugowson",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 128
+  },
+  "1167": {
+    "Director": "Garry Marshall",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 112
+  },
+  "1170": {
+    "Director": "Phillip Rhee",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 90
+  },
+  "1171": {
+    "Director": "Tim Robbins",
+    "Budget": 3900000,
+    "Cumulative Worldwide Gross": 8000000,
+    "Runtime": 102
+  },
+  "1172": {
+    "Director": "Giuseppe Tornatore",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 35962062,
+    "Runtime": 124
+  },
+  "1173": {
+    "Director": "Peter Greenaway",
+    "Budget": 2300000,
+    "Cumulative Worldwide Gross": 7724701,
+    "Runtime": 124
+  },
+  "1175": {
+    "Director": "Jean-Pierre Jeunet, Marc Caro",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 1794187,
+    "Runtime": 99
+  },
+  "1176": {
+    "Director": "Krzysztof Kieślowski",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1999955,
+    "Runtime": 98
+  },
+  "1177": {
+    "Director": "Mike Newell",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 13200170,
+    "Runtime": 95
+  },
+  "1178": {
+    "Director": "Stanley Kubrick",
+    "Budget": 935000,
+    "Cumulative Worldwide Gross": 1200000,
+    "Runtime": 88
+  },
+  "1179": {
+    "Director": "Stephen Frears",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 13446769,
+    "Runtime": 110
+  },
+  "1180": {
+    "Director": "Peter Chelsom",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 104
+  },
+  "1183": {
+    "Director": "Anthony Minghella",
+    "Budget": 27000000,
+    "Cumulative Worldwide Gross": 231976425,
+    "Runtime": 162
+  },
+  "1184": {
+    "Director": "Gabriele Salvatores",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 4532791,
+    "Runtime": 96
+  },
+  "1185": {
+    "Director": "Jim Sheridan",
+    "Budget": 645180,
+    "Cumulative Worldwide Gross": 14743391,
+    "Runtime": 103
+  },
+  "1186": {
+    "Director": "Steven Soderbergh",
+    "Budget": 1200000,
+    "Cumulative Worldwide Gross": 24741667,
+    "Runtime": 101
+  },
+  "1187": {
+    "Director": "John Sayles",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 4814619,
+    "Runtime": 135
+  },
+  "1188": {
+    "Director": "Baz Luhrmann",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 33946224,
+    "Runtime": 94
+  },
+  "1189": {
+    "Director": "Errol Morris",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1209846,
+    "Runtime": 103
+  },
+  "1190": {
+    "Director": "Pedro Almodóvar",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 3125224,
+    "Runtime": 102
+  },
+  "1191": {
+    "Director": "Alek Keshishian",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 119
+  },
+  "1192": {
+    "Director": "Jennie Livingston",
+    "Budget": 500000,
+    "Cumulative Worldwide Gross": 3906006,
+    "Runtime": 78
+  },
+  "1193": {
+    "Director": "Miloš Forman",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 108981275,
+    "Runtime": 135
+  },
+  "1194": {
+    "Director": "Lou Adler",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 41590893,
+    "Runtime": 86
+  },
+  "1196": {
+    "Director": "Irvin Kershner",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 538400000,
+    "Runtime": 124
+  },
+  "1197": {
+    "Director": "Rob Reiner",
+    "Budget": 16000000,
+    "Cumulative Worldwide Gross": 30900000,
+    "Runtime": 99
+  },
+  "1198": {
+    "Director": "Steven Spielberg",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 389925971,
+    "Runtime": 115
+  },
+  "1199": {
+    "Director": "Terry Gilliam",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 9953708,
+    "Runtime": 143
+  },
+  "1200": {
+    "Director": "James Cameron",
+    "Budget": 18500000,
+    "Cumulative Worldwide Gross": 183316455,
+    "Runtime": 137
+  },
+  "1201": {
+    "Director": "Sergio Leone",
+    "Budget": 1200000,
+    "Cumulative Worldwide Gross": 38900000,
+    "Runtime": 161
+  },
+  "1202": {
+    "Director": "Bruce Robinson",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1544889,
+    "Runtime": 108
+  },
+  "1203": {
+    "Director": "Sidney Lumet",
+    "Budget": 397751,
+    "Cumulative Worldwide Gross": 4360000,
+    "Runtime": 97
+  },
+  "1204": {
+    "Director": "David Lean",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 70000000,
+    "Runtime": 228
+  },
+  "1206": {
+    "Director": "Stanley Kubrick",
+    "Budget": 2200000,
+    "Cumulative Worldwide Gross": 27033812,
+    "Runtime": 137
+  },
+  "1207": {
+    "Director": "Robert Mulligan",
+    "Budget": 2000000,
+    "Cumulative Worldwide Gross": 13129846,
+    "Runtime": 129
+  },
+  "1208": {
+    "Director": "Francis Ford Coppola",
+    "Budget": 31500000,
+    "Cumulative Worldwide Gross": 150000000,
+    "Runtime": 147
+  },
+  "1209": {
+    "Director": "Sergio Leone",
+    "Budget": 5000000,
+    "Cumulative Worldwide Gross": 5380118,
+    "Runtime": 166
+  },
+  "1210": {
+    "Director": "Richard Marquand",
+    "Budget": 32350000,
+    "Cumulative Worldwide Gross": 572700000,
+    "Runtime": 132
+  },
+  "1211": {
+    "Director": "Wim Wenders",
+    "Budget": 2500000,
+    "Cumulative Worldwide Gross": 3548590,
+    "Runtime": 128
+  },
+  "1212": {
+    "Director": "Carol Reed",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 1226098,
+    "Runtime": 105
+  },
+  "1213": {
+    "Director": "Martin Scorsese",
+    "Budget": 25000000,
+    "Cumulative Worldwide Gross": 47072327,
+    "Runtime": 145
+  },
+  "1214": {
+    "Director": "Ridley Scott",
+    "Budget": 11000000,
+    "Cumulative Worldwide Gross": 104931801,
+    "Runtime": 117
+  },
+  "1215": {
+    "Director": "Sam Raimi",
+    "Budget": 11000000,
+    "Cumulative Worldwide Gross": 21502976,
+    "Runtime": 81
+  },
+  "1216": {
+    "Director": "Luc Besson",
+    "Budget": 13500000,
+    "Cumulative Worldwide Gross": 4000000,
+    "Runtime": 168
+  },
+  "1217": {
+    "Director": "Akira Kurosawa",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 23334156,
+    "Runtime": 160
+  },
+  "1218": {
+    "Director": "John Woo",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 2350174,
+    "Runtime": 110
+  },
+  "1219": {
+    "Director": "Alfred Hitchcock",
+    "Budget": 806947,
+    "Cumulative Worldwide Gross": 50000000,
+    "Runtime": 109
+  },
+  "1220": {
+    "Director": "John Landis",
+    "Budget": 27000000,
+    "Cumulative Worldwide Gross": 115229890,
+    "Runtime": 133
+  },
+  "1221": {
+    "Director": "Francis Ford Coppola",
+    "Budget": 13000000,
+    "Cumulative Worldwide Gross": 102600000,
+    "Runtime": 202
+  },
+  "1222": {
+    "Director": "Stanley Kubrick",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 46357676,
+    "Runtime": 117
+  },
+  "1223": {
+    "Director": "Nick Park",
+    "Budget": 17300,
+    "Cumulative Worldwide Gross": 40118,
+    "Runtime": 24
+  },
+  "1224": {
+    "Director": "Kenneth Branagh",
+    "Budget": 9000000,
+    "Cumulative Worldwide Gross": 10161211,
+    "Runtime": 137
+  },
+  "1225": {
+    "Director": "Miloš Forman",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 90007557,
+    "Runtime": 160
+  },
+  "1226": {
+    "Director": "John Ford",
+    "Budget": 1750000,
+    "Cumulative Worldwide Gross": 3800000,
+    "Runtime": 129
+  },
+  "1227": {
+    "Director": "Sergio Leone",
+    "Budget": 30000000,
+    "Cumulative Worldwide Gross": 5500000,
+    "Runtime": 229
+  },
+  "1228": {
+    "Director": "Martin Scorsese",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 23380203,
+    "Runtime": 129
+  },
+  "1230": {
+    "Director": "Woody Allen",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 43989445,
+    "Runtime": 93
+  },
+  "1231": {
+    "Director": "Philip Kaufman",
+    "Budget": 27000000,
+    "Cumulative Worldwide Gross": 21500000,
+    "Runtime": 193
+  },
+  "1232": {
+    "Director": "Andrei Tarkovsky",
+    "Budget": 120000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 162
+  },
+  "1233": {
+    "Director": "Wolfgang Petersen",
+    "Budget": 14000000,
+    "Cumulative Worldwide Gross": 85000000,
+    "Runtime": 150
+  },
+  "1234": {
+    "Director": "George Roy Hill",
+    "Budget": 5500000,
+    "Cumulative Worldwide Gross": 159616327,
+    "Runtime": 129
+  },
+  "1235": {
+    "Director": "Hal Ashby",
+    "Budget": 1200000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 92
+  },
+  "1236": {
+    "Director": "Hal Hartley",
+    "Budget": 700000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 106
+  },
+  "1237": {
+    "Director": "Ingmar Bergman",
+    "Budget": 150000,
+    "Cumulative Worldwide Gross": 311212,
+    "Runtime": 96
+  },
+  "1238": {
+    "Director": "Bill Forsyth",
+    "Budget": 4200000,
+    "Cumulative Worldwide Gross": 5900000,
+    "Runtime": 111
+  },
+  "1240": {
+    "Director": "James Cameron",
+    "Budget": 6400000,
+    "Cumulative Worldwide Gross": 78371200,
+    "Runtime": 108
+  },
+  "1241": {
+    "Director": "Peter Jackson",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 242623,
+    "Runtime": 103
+  },
+  "1242": {
+    "Director": "Edward Zwick",
+    "Budget": 18000000,
+    "Cumulative Worldwide Gross": 26800000,
+    "Runtime": 122
+  },
+  "1243": {
+    "Director": "Tom Stoppard",
+    "Budget": 2500000,
+    "Cumulative Worldwide Gross": 805104,
+    "Runtime": 117
+  },
+  "1244": {
+    "Director": "Woody Allen",
+    "Budget": 9000000,
+    "Cumulative Worldwide Gross": 40194067,
+    "Runtime": 96
+  },
+  "1245": {
+    "Director": "Joel Coen",
+    "Budget": 14000000,
+    "Cumulative Worldwide Gross": 5080409,
+    "Runtime": 115
+  },
+  "1246": {
+    "Director": "Peter Weir",
+    "Budget": 16400000,
+    "Cumulative Worldwide Gross": 235860116,
+    "Runtime": 129
+  },
+  "1247": {
+    "Director": "Mike Nichols",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 104945305,
+    "Runtime": 107
+  },
+  "1248": {
+    "Director": "Orson Welles",
+    "Budget": 829000,
+    "Cumulative Worldwide Gross": 2247500,
+    "Runtime": 111
+  },
+  "1249": {
+    "Director": "Luc Besson",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 5018604,
+    "Runtime": 117
+  },
+  "1250": {
+    "Director": "David Lean",
+    "Budget": 2800000,
+    "Cumulative Worldwide Gross": 44908000,
+    "Runtime": 162
+  },
+  "1251": {
+    "Director": "Federico Fellini",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 139
+  },
+  "1252": {
+    "Director": "Roman Polanski",
+    "Budget": 6000000,
+    "Cumulative Worldwide Gross": 30000000,
+    "Runtime": 130
+  },
+  "1253": {
+    "Director": "Robert Wise",
+    "Budget": 995000,
+    "Cumulative Worldwide Gross": 1850000,
+    "Runtime": 92
+  },
+  "1254": {
+    "Director": "John Huston",
+    "Budget": 3800000,
+    "Cumulative Worldwide Gross": 4307000,
+    "Runtime": 126
+  },
+  "1255": {
+    "Director": "Peter Jackson",
+    "Budget": 25000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 91
+  },
+  "1256": {
+    "Director": "Leo McCarey",
+    "Budget": null,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 68
+  },
+  "1257": {
+    "Director": "Savage Steve Holland",
+    "Budget": 3500000,
+    "Cumulative Worldwide Gross": 10297601,
+    "Runtime": 97
+  },
+  "1258": {
+    "Director": "Stanley Kubrick",
+    "Budget": 19000000,
+    "Cumulative Worldwide Gross": 44781695,
+    "Runtime": 144
+  },
+  "1259": {
+    "Director": "Rob Reiner",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": 52289686,
+    "Runtime": 89
+  },
+  "1260": {
+    "Director": "Fritz Lang",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 35274,
+    "Runtime": 110
+  },
+  "1261": {
+    "Director": "Sam Raimi",
+    "Budget": 3500000,
+    "Cumulative Worldwide Gross": 10900000,
+    "Runtime": 84
+  },
+  "1262": {
+    "Director": "John Sturges",
+    "Budget": 4000000,
+    "Cumulative Worldwide Gross": 11700000,
+    "Runtime": 173
+  },
+  "1263": {
+    "Director": "Michael Cimino",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 49000000,
+    "Runtime": 183
+  },
+  "1264": {
+    "Director": "Jean-Jacques Beineix",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 2925889,
+    "Runtime": 117
+  },
+  "1265": {
+    "Director": "Harold Ramis",
+    "Budget": 14600000,
+    "Cumulative Worldwide Gross": 71108778,
+    "Runtime": 101
+  },
+  "1266": {
+    "Director": "Clint Eastwood",
+    "Budget": 14400000,
+    "Cumulative Worldwide Gross": 159157447,
+    "Runtime": 130
+  },
+  "1267": {
+    "Director": "John Frankenheimer",
+    "Budget": 2200000,
+    "Cumulative Worldwide Gross": 7700000,
+    "Runtime": 126
+  },
+  "1268": {
+    "Director": "Allan Moyle",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 11500000,
+    "Runtime": 102
+  },
+  "1269": {
+    "Director": "Frank Capra",
+    "Budget": 1120175,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 118
+  },
+  "1270": {
+    "Director": "Robert Zemeckis",
+    "Budget": 19000000,
+    "Cumulative Worldwide Gross": 381109762,
+    "Runtime": 116
+  },
+  "1271": {
+    "Director": "Jon Avnet",
+    "Budget": 11000000,
+    "Cumulative Worldwide Gross": 119418501,
+    "Runtime": 130
+  },
+  "1272": {
+    "Director": "Franklin J. Schaffner",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 89800000,
+    "Runtime": 172
+  },
+  "1273": {
+    "Director": "Jim Jarmusch",
+    "Budget": 1100000,
+    "Cumulative Worldwide Gross": 1529206,
+    "Runtime": 106
+  },
+  "1274": {
+    "Director": "Katsuhiro Otomo",
+    "Budget": 5700000,
+    "Cumulative Worldwide Gross": 49000000,
+    "Runtime": 124
+  },
+  "1275": {
+    "Director": "Russell Mulcahy",
+    "Budget": 19000000,
+    "Cumulative Worldwide Gross": 12900000,
+    "Runtime": 116
+  },
+  "1276": {
+    "Director": "Stuart Rosenberg",
+    "Budget": 3200000,
+    "Cumulative Worldwide Gross": 16217773,
+    "Runtime": 127
+  },
+  "1277": {
+    "Director": "Jean-Paul Rappeneau",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 5822041,
+    "Runtime": 137
+  },
+  "1278": {
+    "Director": "Mel Brooks",
+    "Budget": 2800000,
+    "Cumulative Worldwide Gross": 86273333,
+    "Runtime": 106
+  },
+  "1279": {
+    "Director": "Jim Jarmusch",
+    "Budget": 3500000,
+    "Cumulative Worldwide Gross": 2015810,
+    "Runtime": 129
+  },
+  "1280": {
+    "Director": "Zhang Yimou",
+    "Budget": 1000000,
+    "Cumulative Worldwide Gross": 16600000,
+    "Runtime": 125
+  },
+  "1281": {
+    "Director": "Charlie Chaplin",
+    "Budget": 2000000,
+    "Cumulative Worldwide Gross": 11000000,
+    "Runtime": 125
+  },
+  "1282": {
+    "Director": "Samuel Armstrong, James Algar, Bill Roberts, Paul Satterfield, Hamilton Luske, Jim Handley, T. Hee, Wilfred Jackson, Ben Sharpsteen, Norman Ferguson, David Hand, Ford Beebe Jr.",
+    "Budget": 2280000,
+    "Cumulative Worldwide Gross": 76411819,
+    "Runtime": 124
+  },
+  "1283": {
+    "Director": "Fred Zinnemann",
+    "Budget": 730000,
+    "Cumulative Worldwide Gross": 8000000,
+    "Runtime": 85
+  },
+  "1284": {
+    "Director": "Howard Hawks",
+    "Budget": 250000,
+    "Cumulative Worldwide Gross": 10682000,
+    "Runtime": 114
+  },
+  "1285": {
+    "Director": "Michael Lehmann",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 1166207,
+    "Runtime": 103
+  },
+  "1286": {
+    "Director": "Jeannot Szwarc",
+    "Budget": 5100000,
+    "Cumulative Worldwide Gross": null,
+    "Runtime": 103
+  },
+  "1287": {
+    "Director": "William Wyler",
+    "Budget": 15000000,
+    "Cumulative Worldwide Gross": 164000000,
+    "Runtime": 212
+  },
+  "1288": {
+    "Director": "Rob Reiner",
+    "Budget": 2500000,
+    "Cumulative Worldwide Gross": 6051884,
+    "Runtime": 82
+  },
+  "1289": {
+    "Director": "Godfrey Reggio",
+    "Budget": 600000,
+    "Cumulative Worldwide Gross": 3200000,
+    "Runtime": 86
+  },
+  "1290": {
+    "Director": "Howard Deutch",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 18553948,
+    "Runtime": 95
+  },
+  "1291": {
+    "Director": "Steven Spielberg",
+    "Budget": 48000000,
+    "Cumulative Worldwide Gross": 474171806,
+    "Runtime": 127
+  },
+  "1292": {
+    "Director": "Hal Ashby",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 30177511,
+    "Runtime": 130
+  },
+  "1293": {
+    "Director": "Richard Attenborough",
+    "Budget": 22000000,
+    "Cumulative Worldwide Gross": 77737889,
+    "Runtime": 192
+  },
+  "1295": {
+    "Director": "Philip Kaufman",
+    "Budget": 17000000,
+    "Cumulative Worldwide Gross": 10000000,
+    "Runtime": 171
+  },
+  "1296": {
+    "Director": "James Ivory",
+    "Budget": 3000000,
+    "Cumulative Worldwide Gross": 20966644,
+    "Runtime": 117
+  },
+  "1297": {
+    "Director": "Martha Coolidge",
+    "Budget": 8000000,
+    "Cumulative Worldwide Gross": 12952019,
+    "Runtime": 106
+  },
+  "1298": {
+    "Director": "Alan Parker",
+    "Budget": 12000000,
+    "Cumulative Worldwide Gross": 22244207,
+    "Runtime": 95
+  },
+  "1299": {
+    "Director": "Roland Joffé",
+    "Budget": 14400000,
+    "Cumulative Worldwide Gross": 34700291,
+    "Runtime": 142
+  },
+  "1300": {
+    "Director": "Lasse Hallström",
+    "Budget": null,
+    "Cumulative Worldwide Gross": 8300000,
+    "Runtime": 102
+  },
+  "1301": {
+    "Director": "Fred M. Wilcox",
+    "Budget": 1900000,
+    "Cumulative Worldwide Gross": 3250000,
+    "Runtime": 98
+  }
+}
